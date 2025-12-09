@@ -1,0 +1,65 @@
+{
+  "name": "vue-multiselect",
+  "version": "3.0.0-beta.3",
+  "private": false,
+  "types": "index.d.ts",
+  "description": "Multiselect component for Vue 3",
+  "author": {
+    "name": "Damian Dulisz",
+    "email": "damian@dulisz.com"
+  },
+  "contributors": [
+    "Matt Elen <matt@suade.org>"
+  ],
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "bundle": "vue-cli-service build --target lib ./src/index.js && rm -rf ./dist/demo.html && rollup -c --environment BUILD:production",
+    "finish": "npm run lint && npm test && npm run bundle",
+    "test": "vue-cli-service test:unit"
+  },
+  "main": "dist/vue-multiselect.esm.js",
+  "unpkg": "dist/vue-multiselect.umd.min.js",
+  "jsnext:main": "dist/vue-multiselect.esm.js",
+  "files": [
+    "dist",
+    "src",
+    "index.d.ts"
+  ],
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-unit-jest": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "@vue/test-utils": "^2.0.0-0",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^26.6.3",
+    "core-js": "^3.6.5",
+    "eslint": "^6.7.2",
+    "eslint-config-standard": "^6.1.0",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-vue": "^7.0.0-0",
+    "node-sass": "4.14.1",
+    "rollup": "^2.46.0",
+    "rollup-plugin-css-only": "^3.1.0",
+    "rollup-plugin-vue": "^6.0.0",
+    "sass-loader": "10.1.1",
+    "typescript": "~3.9.3",
+    "vue": "^3.0.0",
+    "vue-jest": "^5.0.0-alpha.7"
+  },
+  "bugs": {
+    "url": "https://github.com/suadelabs/vue-multiselect/issues"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suadelabs/vue-multiselect.git"
+  }
+}

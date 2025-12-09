@@ -1,0 +1,47 @@
+.filter-container-margin-top {
+    margin-top: 1rem;
+}
+
+.filter-container-margin-bottom {
+    margin-bottom: 1rem;
+}
+
+.filter-container-margin-bottom-lg {
+    margin-bottom: 2rem;
+}
+
+.mt-1rem {
+    margin-top: 1rem;
+}
+
+.mt-2rem {
+    margin-top: 2rem;
+}
+
+.mt-4rem {
+    margin-top: 2rem;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mb-1rem {
+    margin-bottom: 1rem;
+}
+
+.mb-2rem {
+    margin-bottom: 2rem;
+}
+
+.max-w-400px {
+    max-width: 400px;
+}
+
+.max-w-300px {
+    max-width: 300px;
+}

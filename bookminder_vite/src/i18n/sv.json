@@ -1,0 +1,410 @@
+{
+    "languages": {
+        "english": "English",
+        "spanish": "Español",
+        "swedish": "Svenska"
+    },
+    "nav": {
+        "home": "Hem",
+        "about": "About",
+        "contact": "Contact",
+        "Users": "Användare",
+        "admin": {
+            "admin panel": "Admin Panel",
+            "Roles": "Roller",
+            "Users": "Användare",
+            "Global Libraries": "Globala Bibliotek",
+            "User Libraries": "Användarbibliotek",
+            "Plugins": "Tillägg",
+            "Go back": "Gå tillbaka"
+        },
+        "head": {
+            "search": "Sök",
+            "search placeholder": "Sök efter användare, bibliotek, roller, tillägg...",
+            "search button": "Sök",
+            "libraries": "Bibliotek",
+            "user libraries": "Användarbibliotek",
+            "global libraries": "Globala bibliotek",
+            "user profile": "Användarprofil",
+            "upload": "Ladda upp",
+            "all books": "Alla böcker",
+            "all books in": "Alla böcker i",
+            "books by": "Böcker av",
+            "all authors": "Alla författare",
+            "select a library and a folder": "Välj ett bibliotek och en mapp",
+            "select a library": "Välj ett bibliotek",
+            "file list": "Fil lista",
+            "settings": "Inställningar",
+            "roles": "Roller",
+            "role properties": "Roll Egenskaper",
+            "role actions": "Roll Åtgärder",
+            "search with": "Sök med"
+        }
+    },
+    "placeholders": {
+        "filter by book title or author": "Filtrera efter boktitel eller författare",
+        "filter by book title": "Filtrera efter boktitel",
+        "filter by author name": "Filtrera efter författarnamn"
+    },    
+    "logout": {
+        "msg": "Loggar ut.",
+        "button": "Klicka här om du inte omdirigeras"
+    },    
+    "login": {
+        "msg": "Välkommen.",
+        "button": "Logga in",
+        "username": "Ange ditt användarnamn",
+        "password": "Ange ditt lösenord",   
+        "empty username": "Användarnamnet kan inte vara tomt",
+        "empty password": "Lösenordet kan inte vara tomt",
+        "invalid credentials": "Ogiltigt användarnamn eller lösenord"
+    },     
+    "sidebarMenu": {
+        "home": "Hem",
+        "discover": "Upptäck",
+        "books": "Böcker",
+        "authors": "Författare",
+        "search": "Sök",
+        "upload": "Ladda upp",
+        "admin": "Administration",
+        "roles": "Roller",
+        "users": "Användare",
+        "user libraries": "Användarbibliotek",
+        "global libraries": "Globala bibliotek",
+        "plugins": "Tillägg",
+        "go back": "Gå tillbaka",
+        "profile": "Profil",
+        "settings": "Inställningar",
+        "logout": "Logga ut",
+        "admin panel": "Administrationspanel"
+    },
+    "alts": {
+        "for": "för",
+        "user avatar": "Användaravatar",
+        "book cover": "Bokomslag",
+        "author picture": "Författarbild",
+        "library cover": "Biblioteksomslag",
+        "scroll container left": "Rulla Behållare Vänster",
+        "scroll container right": "Rulla Behållare Höger"
+    },
+    "formLabels": {
+        "language": "Språk",
+        "select your language": "Välj ditt språk",
+        "select user": "Välj en användare",
+        "select a library": "Välj ett bibliotek",
+        "select a folder": "Välj en mapp",
+        "password1": "Skriv ditt nya lösenord",
+        "password2": "Bekräfta ditt lösenord",
+        "selected role": "Vald roll"
+    },
+    "accessibility": {
+        "fullyAccessible": "Helt tillgänglig",
+        "avatarAccessible": "Avatar tillgänglig",
+        "homeAccessible": "Hem tillgänglig",
+        "modalsAccessible": "Modals tillgänglig",
+        "contrastAccessible": "Kontrast tillgänglig",
+        "inputsAccessible": "Inputs tillgänglig",
+        "errorAccessible": "Fel tillgänglig",
+        "closeToastAfter": "Stäng toast efter",
+        "speakToastAloud": "Tala toast högt",
+        "toast": {
+            "seconds": "sekunder",
+            "never": "Aldrig"
+        }
+    },
+    "settings": {
+        "header": {
+            "display options": "Visningsalternativ",
+            "stablish your preferences": "Ställ in dina preferenser",
+            "set up a password": "Ställ in ett lösenord",
+            "sample libraries": "Exempelbibliotek",
+            "language": "Språk",
+            "display theme": "Visningstema",
+            "theme configuration": "Temakonfiguration",
+            "accessibility": "Tillgänglighet"
+        },
+        "toggle": {
+            "make fully accessible": "Gör helt tillgänglig",
+            "make avatar accessible": "Gör avatar tillgänglig",
+            "make home accessible": "Gör hem tillgänglig",
+            "make modals accessible": "Gör modals tillgänglig",
+            "create global sample libraries": "Skapa globala exempelbibliotek",
+            "create user sample libraries": "Skapa användarens exempelbibliotek"
+        },
+        "select": {
+            "max continue reading": "Maximalt antal böcker i fortsatt läsning",
+            "max recently added": "Maximalt antal böcker i nyligen tillagd",
+            "books": "böcker",
+            "select a theme": "Välj ett tema"
+        },
+        "colors": {
+            "Logo Color": "Logotypfärg",
+            "Sidebar Text Color": "Sidofältstextfärg",
+            "Sidebar Background Color": "Sidofältets bakgrundsfärg",
+            "Top Bar Text Color": "Toppbarrens textfärg",
+            "Top Bar Background Color": "Toppbarrens bakgrundsfärg",
+            "Primary Background Color": "Primär bakgrundsfärg",
+            "Secondary Background Color": "Sekundär bakgrundsfärg",
+            "Primary Text Color": "Primär textfärg",
+            "Secondary Text Color": "Sekundär textfärg",
+            "Focus Ring Color": "Fokusringfärg"
+        }          
+    },
+    "status": {
+        "waiting": "Väntar",
+        "done": "Klart"
+    },    
+    "errors": {
+        "empty password": "Lösenordet får inte vara tomt",
+        "password mismatch": "Lösenorden matchar inte",
+        "select a library and a folder first": "Välj ett bibliotek och en mapp först",
+        "empty username": "Användarnamnet får inte vara tomt",
+        "no epub format available": "Inget EPUB-format tillgängligt för denna bok",
+        "book loading failed": "Det gick inte att ladda boken. Försök igen.",
+        "book too large or connection interrupted": "Bokfilen är för stor eller anslutningen avbröts. Försök igen eller kontakta support.",
+        "network error loading book": "Nätverksfel vid laddning av boken. Kontrollera din anslutning och försök igen.",
+        "failed to load libraries": "Det gick inte att ladda biblioteken. Försök igen.",
+        "download failed": "Det gick inte att ladda ner boken. Försök igen.",
+        "no permission to add books": "Du har inte behörighet att lägga till böcker i detta bibliotek.",
+        "book not found on gutenberg": "Boken hittades inte på Project Gutenberg. Den kan ha tagits bort eller är inte tillgänglig."
+    },
+    "buttons": {
+        "submit": "Skicka",
+        "reset": "Återställ",
+        "help": "Hjälp",
+        "scan all libraries": "Skanna alla bibliotek",
+        "add library": "Lägg till bibliotek",
+        "add new user": "Lägg till användare",
+        "change image": "Byt bild",
+        "close": "Stäng",
+        "upload files": "Ladda upp filer",
+        "restore configuration": "Återställ konfiguration",
+        "restore defaults": "Återställ standardvärden",
+        "continue": "Fortsätt",
+        "change password": "Byt lösenord",
+        "add role": "Lägg till roll",
+        "delete": "Radera"   ,
+        "save changes": "Spara ändringar",
+        "default": "Standard",
+        "reload session": "Ladda om sessionen"
+    },
+    "libraries": {
+
+    },
+    "image editor": {
+        "headers": {
+            "filters": "Filter",
+            "rotate and flip": "Rotera & Vänd",
+            "zoom": "Zooma"
+        },
+        "buttons": {
+            "brightness": "Ljusstyrka",
+            "saturation": "Mättnad",
+            "inversion": "Invertering",
+            "greyscale": "Gråskala",
+            "reset filters": "Återställ filter",
+            "choose image": "Välj bild",
+            "click to select": "Klicka för att välja",
+            "drop here": "Släpp filer och/eller mappar här"
+        }
+
+    },
+    "home": {
+        "my media": "Mitt bibliotek",
+        "continue reading": "Fortsätt läsa",
+        "recently added in": "Nyligen tillagd i "
+    },
+    "users view": {
+        "headers": {
+            "select user": "Välj en användare",
+            "access content": "Åtkomst innehåll",
+            "add content": "Lägg till innehåll",
+            "edit content": "Redigera innehåll",
+            "delete content": "Ta bort innehåll",
+            "password reset": "Återställ lösenord"
+        },
+        "tabs": {
+            "roles": "Roller",
+            "global libraries": "Globala bibliotek",
+            "user libraries": "Användarbibliotek",
+            "password": "Lösenord"
+        },        
+        "buttons": {
+            "folder singular": "mapp",
+            "folder plural": "mappar",
+            "generate password reset link": "Generera lösenordsåterställningslänk"
+        },
+        "content": {
+            "you can generate - one": "Du kan generera en länk för att återställa lösenordet så att",
+            "you can generate - two": "kan återställa sitt lösenord och få tillgång till sitt konto igen.",
+            "this action will": "Denna åtgärd kommer att ogiltigförklara alla tidigare utfärdade tokens, och de kommer inte att kunna logga in på sitt konto igen förrän de ändrar sitt lösenord."
+        },
+        "new token": {
+            "new token": "Ny åtkomst-URL",
+            "change library access": "Ändra biblioteksåtkomst",
+            "hand 1:": "Ge denna länk till ",
+            "hand 2:": "så att de kan återställa sitt lösenord.",
+            "invalidated 1": "Alla tidigare tokens har ogiltigförklarats. ",
+            "invalidated 2": "kommer inte längre att kunna logga in med sitt gamla lösenord."
+        }
+
+    },
+    "book details": {
+        "author": "Författare",
+        "authors": "Författare",
+        "format": "Format",
+        "description": "Beskrivning",
+        "read now": "Läs nu",
+        "copy link": "Kopiera länk",
+        "close menu": "Stäng meny"
+    },
+    "discoverArchive": {
+        "title": "Vad som fanns här förut",
+        "intro": "Upptäck-menyn innehöll tidigare en innovativ integration som kopplade användare till deras personliga Goodreads-rekommendationer. Detta var inte en enkel API-integration—Goodreads tillhandahåller inte ett offentligt API, och skyddar aktivt åtkomsten till sin plattform, även för användare som använder sina egna konton.",
+        "technicalAchievement": {
+            "title": "Den tekniska prestationen",
+            "paragraph1": "För att övervinna dessa begränsningar utvecklade vi en sofistikerad lösning med Selenium-baserad webbskrapning genom en dedikerad plugin-arkitektur. Den mest betydande tekniska utmaningen var Goodreads aggressiva skyddsmekanismer, inklusive CAPTCHAs utformade för att förhindra automatiserad åtkomst.",
+            "paragraph2a": "Vår genombrott lösning utnyttjade ",
+            "paragraph2b": ", en toppmodern modell för automatisk taligenkänning (ASR) och talöversättning. Efter att ha implementerat traditionell ljudfiltrering och förbehandling av brusreducering uppnådde vi en ",
+            "paragraph2c": ", vilket möjliggjorde tillförlitlig automatiserad åtkomst till användarrekommendationer.",
+            "whisper": "OpenAI:s Whisper",
+            "accuracy": "tillgänglighetsaktiverad CAPTCHA-lösningsnoggrannhet över 90%"
+        },
+        "userFeatures": {
+            "title": "Användarupplevelsefunktioner",
+            "intro": "Integrationen gav användarna en sömlös upplevelse för att:",
+            "feature1": "Visa personliga bokrekommendationer från sitt eget Goodreads-konto",
+            "feature2": "Bläddra bland rekommendationer organiserade efter genre och kategori",
+            "feature3": "Markera böcker som lästa, vill läsa eller läser för närvarande"
+        },
+        "screenshot": {
+            "title": "En glimt av gränssnittet",
+            "description": "Nedan visas en skärmdump som visar en tidig version av gränssnittet för Goodreads-skrapade rekommendationer. Detta representerar skärningspunkten mellan avancerad maskininlärning, ljudbehandling och praktisk webbautomatisering för att leverera värde där traditionell API-åtkomst inte var tillgänglig.",
+            "caption": "Tidig version av Goodreads-rekommendationsintegrationen som visar personliga bokförslag",
+            "alt": "Skärmdump av BookMinder Goodreads-integration"
+        },
+        "impact": {
+            "title": "Innovationens påverkan",
+            "intro": "Denna funktion visade vår förmåga att:",
+            "point1": "Lösa komplexa tekniska utmaningar",
+            "point1Detail": "genom kreativ tillämpning av banbrytande AI-teknologi",
+            "point2": "Bygga robusta plugin-arkitekturer",
+            "point2Detail": "för utökbar funktionalitet",
+            "point3": "Implementera avancerade ljudbehandlingspipelines",
+            "point3Detail": "för verklig problemlösning",
+            "point4": "Navigera juridiska och etiska gränser",
+            "point4Detail": "samtidigt som legitimt användarvärde tillhandahålls",
+            "point5": "Uppnå hög tillförlitlighet",
+            "point5Detail": "i motståndskraftiga automatiseringsmiljöer"
+        },
+        "footer": "Även om denna integration inte längre är aktiv, var den en viktig prestation i att övervinna plattformsbegränsningar genom innovativ användning av AI och automatisering. Teknikerna vi utvecklade fortsätter att vägleda vårt arbete i komplexa projekt."
+    },    
+    "profile": {
+        "avatar": "Byt din avatar",
+        "password": "Byt ditt lösenord"
+    },
+    "newUser": {
+        "header": {
+            "add new user": "Lägg till en ny användare",
+            "new username": "Nytt användarnamn",
+            "change library access": "Ändra biblioteksåtkomst",
+            "token": "Åtkomst-URL för den nya användaren"
+        },
+        "content": {
+            "token": "Ge denna URL till den nya användaren så att de kan komma åt sitt konto."
+        },
+        "buttons": {
+            "continue": "Fortsätt",
+            "finish": "Slutför",
+            "close": "Stäng"
+        }
+    },
+    "info": {
+        "sent kindle": "E-boken bör anlända till din Kinlde inom kort",
+        "select a user first": "Välj en användare först",
+        "link copied": "Länk kopierad till urklipp",
+        "session reloaded": "Sessionen har laddats om framgångsrikt"
+    },
+    "reader": {
+        "close book": "Stäng boken"
+    },
+    "demo": {
+        "modal": {
+            "resetting": {
+                "title": "⏳ Återställer till Ursprungligt Tillstånd...",
+                "message": "Demon återställs till sitt ursprungliga tillstånd.",
+                "wait": "Detta tar bara ett ögonblick. Vänligen vänta..."
+            },
+            "busy": {
+                "title": "🚦 Demosession Pågår",
+                "message": "En annan användare utforskar demon just nu.",
+                "timer": "Återstående tid:",
+                "firstCome": "Först till kvarn! Kom tillbaka när sessionen har gått ut."
+            },
+            "available": {
+                "welcome": "Välkommen till Bookminder Demo!",
+                "continue": "Fortsätt Din Demosession",
+                "duration": "Du har {minutes} minuter på dig att utforska appen.",
+                "credentials": "Standard Inloggningsuppgifter:",
+                "adminUser": "Adminanvändare",
+                "demoUser": "Demoanvändare",
+                "warning": "⚠️ All data kommer att återställas efter att din session löper ut.",
+                "btnStart": "Starta Demosession",
+                "btnContinue": "Fortsätt Session",
+                "btnStarting": "Startar Session..."
+            },
+            "info": {
+                "header": "Nu när jag har din uppmärksamhet en stund...",
+                "whatNotToExpect": {
+                    "title": "⚠️ Vad Du Inte Kan Förvänta Dig",
+                    "speed": "Produktionsnivåhastighet: Vi serverar appen opaketerad med en utvecklingsserver",
+                    "covers": "404-felfri bokomslagssökning: Även om vi använder en \"smart\" komponent som renderar ett standardomslag med olika design när originalet inte finns, baseras dess nuvarande beteende på att originalbilden ger 404",
+                    "code": "Supren kod: Detta är en del av ett slutprojekt för en yrkesutbildning med ett orealistiskt lågt antal rekommenderade timmar. Jag jobbade snabbt dygnet runt och var tvungen att göra vissa eftergifter"
+                },
+                "features": {
+                    "title": "✨ Nyckelfunktioner",
+                    "organization": "Smart Organisering: Organisera dina böcker i bibliotek och mappar med flexibel kategorisering",
+                    "reader": "Inbyggd Läsare: Läs EPUBs direkt i din webbläsare med Foliate.js-integration",
+                    "metadata": "Metadatahantering: Automatisk metadataextraktion med Calibre-verktyg",
+                    "multilang": "Flerspråksstöd: Gränssnitt tillgängligt på engelska, svenska och spanska",
+                    "plugins": "Pluginsystem: Utöka funktionaliteten med Docker-baserade plugins",
+                    "rbac": "Rollbaserad Åtkomst: Granulerat behörighetssystem för fleranvändarmiljöer"
+                },
+                "limitations": {
+                    "title": "🔌 Demobegränsningar",
+                    "message": "Detta är en tidsbegränsad demomiljö. Vissa funktioner kan vara begränsade eller inaktiverade. För den fullständiga upplevelsen, överväg att självhosta din egen instans!"
+                },
+                "getStarted": {
+                    "title": "🚀 Kom Igång",
+                    "message": "Bookminder är öppen källkod och tillgänglig på GitHub. Du kan köra den på din egen server med Docker, vilket ger dig fullständig kontroll över ditt bokbibliotek utan molnberoenden."
+                },
+                "tips": {
+                    "title": "💡 Tips för Denna Demo",
+                    "accounts": "Prova både admin- och demokontona för att se olika behörighetsnivåer",
+                    "createUsers": "Skapa nya användare och gå igenom deras registrerings-/konfigurationssida. Logga in med dem (observera att de får minst Adminbehörigheter om du inte har ändrat standardrollen under din session). Byt inte webbläsare när du skapar nya användare på denna demoinstans",
+                    "gutenberg": "Bläddra bland de förladdade Project Gutenberg-böckerna på olika språk",
+                    "reader": "Testa den inbyggda EPUB-läsaren med valfri bok",
+                    "libraries": "Utforska bibliotekshantering och organisationsfunktioner",
+                    "plugins": "Kolla in pluginsystemet i inställningarna, särskilt om du har ett traditionellt SMTP-autentiseringskonto som tillåter att skicka bilagor. Oroa dig inte—all personlig data du tillhandahåller lagras endast under din session"
+                },
+                "contact": "Frågor eller feedback? Tveka inte att höra av dig eller kolla GitHub-repositoryt för dokumentation och uppdateringar."
+            }
+        }
+    },
+    "gutenberg": {
+        "select library": "Välj Bibliotek",
+        "select library instruction": "Välj vilket bibliotek du vill ladda ner den här boken till:",
+        "downloading": "Laddar ner...",
+        "download to library": "Ladda ner till Bibliotek",
+        "download started": "Nedladdningen har startats. Boken kommer att bearbetas och läggas till i ditt bibliotek inom kort.",
+        "download success": "Boken har laddats ner framgångsrikt! Den kommer att visas i ditt bibliotek när bearbetningen är klar.",
+        "no libraries available": "Du har inte behörighet att lägga till böcker i något bibliotek. Kontakta en administratör.",
+        "add to library": "Lägg till i Bibliotek"
+    },
+    "common": {
+        "loading": "Laddar",
+        "cancel": "Avbryt",
+        "global": "Global",
+        "user": "Användare"
+    }
+}

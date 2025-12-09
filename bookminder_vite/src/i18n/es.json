@@ -1,0 +1,411 @@
+{
+    "languages": {
+        "english": "English",
+        "spanish": "Español",
+        "swedish": "Svenska"
+    },
+    "nav": {
+        "home": "Inicio",
+        "Users": "Usuarios",
+        "admin": {
+            "admin panel": "Panel Admin",
+            "Roles": "Roles",
+            "Users": "Usuarios",
+            "Global Libraries": "Bibl. Gobales",
+            "User Libraries": "Bibl. Usuario",
+            "Plugins": "Plugins",
+            "Go back": "Ir atrás"
+      
+        },
+        "head": {
+            "search": "Buscar",
+            "search placeholder": "Buscar usuarios, bibliotecas, roles, plugins...",
+            "search button": "Buscar",
+            "libraries": "Bibliotecas",
+            "user libraries": "Bibliotecas de Usuario",
+            "global libraries": "Bibliotecas Globales",
+            "user profile": "Perfil de Usuario",
+            "upload": "Subir",
+            "all books": "Todos los libros",
+            "all books in": "Todos los libros en",
+            "books by": "Libros de",
+            "all authors": "Todos los autores",
+            "select a library and a folder": "Selecciona una biblioteca y una carpeta",
+            "select a library": "Selecciona una biblioteca",
+            "file list": "Lista de archivos",
+            "settings": "Ajustes",
+            "roles": "Roles",
+            "role properties": "Propiedades de los roles",
+            "role actions": "Acciones de los roles",
+            "search with": "Buscar con"
+        }
+    },
+    "placeholders": {
+        "filter by book title or author": "Filtrar por título o autor",
+        "filter by book title": "Filtrar por título",
+        "filter by author name": "Filtrar por autor"
+    },    
+    "logout": {
+        "msg": "Cerrando sesión.",
+        "button": "Haz clic aquí si no eres redirigido"
+    },    
+    "login": {
+        "msg": "Bienvenido.",
+        "button": "Iniciar sesión",
+        "username": "Introduce tu nombre de usuario",
+        "password": "Introduce tu contraseña",      
+        "empty username": "El nombre de usuario no puede estar vacío",
+        "empty password": "La contraseña no puede estar vacía",
+        "invalid credentials": "Nombre de usuario o contraseña incorrectos"
+    },     
+    "sidebarMenu": {
+        "home": "Inicio",
+        "discover": "Descubrir",
+        "books": "Libros",
+        "authors": "Autores",
+        "search": "Buscar",
+        "upload": "Subir",
+        "admin": "Admin",
+        "roles": "Roles",
+        "users": "Usuarios",
+        "user libraries": "Bibl. Usuario",
+        "global libraries": "Bibl. Gobales",
+        "plugins": "Plugins",
+        "go back": "Ir atrás",
+        "profile": "Perfil",
+        "settings": "Ajustes",
+        "logout": "Cerrar sesión",
+        "admin panel": "Panel Admin"
+    },
+    "alts": {
+        "for": "para",
+        "user avatar": "Avatar de Usuario",
+        "book cover": "Portada de Libro",
+        "author picture": "Imagen de Autor",
+        "library cover": "Portada de Biblioteca",
+        "scroll container left": "Desplazar contenedor a la izquierda",
+        "scroll container right": "Desplazar contenedor a la derecha"
+    },
+    "formLabels": {
+        "language": "Idioma",
+        "select your language": "Selecciona tu idioma",
+        "select user": "Selecciona un usuario",
+        "select a library": "Selecciona una biblioteca",
+        "select a folder": "Selecciona una carpeta",
+        "password1": "Escribe tu nueva contraseña",
+        "password2": "Repite tu contraseña",
+        "selected role": "Rol seleccionado"
+    },
+    "accessibility": {
+        "fullyAccessible": "Totalmente accesible",
+        "avatarAccessible": "Avatar accesible",
+        "homeAccessible": "Inicio accesible",
+        "modalsAccessible": "Modales accesibles",
+        "contrastAccessible": "Accesibilidad de contraste",
+        "inputsAccessible": "Accesibilidad de inputs",
+        "errorAccessible": "Accesibilidad de errores",
+        "closeToastAfter": "Cerrar aviso después de",
+        "speakToastAloud": "Leer aviso en voz alta",
+        "toast": {
+            "seconds": "segundos",
+            "never": "Nunca"
+        }
+    },
+    "settings": {
+        "header": {
+            "display options": "Opciones de visualización",
+            "stablish your preferences": "Establece tus preferencias",
+            "set up a password": "Establece una contraseña",
+            "sample libraries": "Bibliotecas de ejemplo",
+            "language": "Idioma",
+            "display theme": "Tema de visualización",
+            "theme configuration": "Configuración del tema",
+            "accessibility": "Accesibilidad"
+        },        
+        "toggle": {
+            "make fully accessible": "Hacer completamente accesible",
+            "make avatar accessible": "Hacer avatar accesible",
+            "make home accessible": "Hacer inicio accesible",
+            "make modals accessible": "Hacer modales accesibles",
+            "create global sample libraries": "Crear bibliotecas globales de ejemplo",
+            "create user sample libraries": "Crear bibliotecas de usuario de ejemplo"
+        },
+        "select": {
+            "max continue reading": "Máximos libros en seguir leyendo",
+            "max recently added": "Máximos libros añadidos recientemente",
+            "books": "libros",
+            "select a theme": "Selecciona un tema"
+        },
+        "colors": {
+            "Logo Color": "Color del logotipo",
+            "Sidebar Text Color": "Color del texto de la barra lateral",
+            "Sidebar Background Color": "Color de fondo de la barra lateral",
+            "Top Bar Text Color": "Color del texto de la barra superior",
+            "Top Bar Background Color": "Color de fondo de la barra superior",
+            "Primary Background Color": "Color de fondo primario",
+            "Secondary Background Color": "Color de fondo secundario",
+            "Primary Text Color": "Color de texto primario",
+            "Secondary Text Color": "Color de texto secundario",
+            "Focus Ring Color": "Color del anillo de enfoque"
+        }                  
+    },
+    "status": {
+        "waiting": "Esperando",
+        "done": "Hecho"
+    },    
+    "errors": {
+        "empty password": "La contraseña no puede estar vacía",
+        "password mismatch": "Las contraseñas no coinciden",
+        "select a library and a folder first": "Selecciona una biblioteca y una carpeta primero",
+        "empty username": "El nombre de usuario no puede estar vacío",
+        "no epub format available": "No hay formato EPUB disponible para este libro",
+        "book loading failed": "Error al cargar el libro. Por favor, inténtalo de nuevo.",
+        "book too large or connection interrupted": "El archivo del libro es demasiado grande o la conexión se interrumpió. Por favor, inténtalo de nuevo o contacta con soporte.",
+        "network error loading book": "Error de red al cargar el libro. Por favor, verifica tu conexión e inténtalo de nuevo.",
+        "failed to load libraries": "Error al cargar las bibliotecas. Por favor, inténtalo de nuevo.",
+        "download failed": "Error al descargar el libro. Por favor, inténtalo de nuevo.",
+        "no permission to add books": "No tienes permiso para añadir libros a esta biblioteca.",
+        "book not found on gutenberg": "Libro no encontrado en Project Gutenberg. Puede haber sido eliminado o no está disponible."
+    },
+    "buttons": {
+        "save": "Guardar",
+        "cancel": "Cancelar",
+        "edit": "Editar",
+        "add": "Añadir",
+        "help": "Ayuda",
+        "close": "Cerrar",
+        "upload": "Subir",
+        "search": "Buscar",
+        "upload files": "Subir archivos",
+        "change image": "Cambiar avatar",
+        "reset filters": "Restablecer filtros",
+        "generate password reset link": "Generar enlace de restablecimiento de contraseña",
+        "choose image": "Elegir imagen",
+        "click to select": "Haz clic para seleccionar",
+        "drop here": "Suelta archivos y/o carpetas aquí",
+        "restore defaults": "Restaurar valores",
+        "continue": "Continuar",
+        "change password": "Cambiar contraseña",
+        "add role": "Añadir rol",
+        "delete": "Eliminar" ,
+        "save changes": "Guardar cambios",
+        "default": "Por defecto",
+        "add new user": "Añadir nuevo usuario",
+        "reload session": "Recargar sesión"
+
+    },
+    "image editor": {
+        "headers": {
+            "filters": "Filtros",
+            "rotate and flip": "Rotar y voltear",
+            "zoom": "Zoom"
+        },
+        "buttons": {
+            "brightness": "Brillo",
+            "saturation": "Saturación",
+            "inversion": "Inversión",
+            "greyscale": "Escala de grises",
+            "reset filters": "Restablecer filtros",
+            "choose image": "Elegir imagen",
+            "click to select": "Haz clic para seleccionar",
+            "drop here": "Suelta archivos y/o carpetas aquí"
+        }
+    },
+    "home": {
+        "my media": "Mis Bibliotecas",
+        "continue reading": "Seguir leyendo",
+        "recently added in": "Recientemente en "
+    },
+    "users view": {
+        "headers": {
+            "select user": "Selecciona un usuario",
+            "access content": "Acceder al contenido",
+            "add content": "Añadir contenido",
+            "edit content": "Editar contenido",
+            "delete content": "Eliminar contenido",
+            "password reset": "Restablecimiento de contraseña"
+        },
+        "tabs": {
+            "roles": "Roles",
+            "global libraries": "Bibliotecas Globales",
+            "user libraries": "Bibliotecas de Usuario",
+            "password": "Contraseña"
+        },
+        "buttons": {
+            "folder singular": "carpeta",
+            "folder plural": "carpetas",
+            "generate password reset link": "Generar enlace de restablecimiento de contraseña"
+        },
+        "content": {
+            "you can generate - one": "Puedes generar un enlace de restablecimiento de contraseña para que",
+            "you can generate - two": "pueda cambiar su contraseña.",
+            "this action will": "Esta acción invalidará cualquier enlace generado con anterioridad. El usuario no podrá volver a loguearse con su contraseña hasta que no la restablezca."
+        },
+        "new token": {
+            "new token": "Nueva URL de acceso",
+            "change library access": "Cambiar acceso a bibliotecas",
+            "hand 1:": "Dale este enlace a ",
+            "hand 2:": "para que pueda restablecer su contraseña.",
+            "invalidated 1": "Todos los enlaces anteriores han sido invalidados.",
+            "invalidated 2": "no podrá volver a loguearse con su contraseña hasta que no la restablezca."
+        }
+    },
+    "book details": {
+        "author": "Autor",
+        "authors": "Autores",
+        "format": "Formato",
+        "description": "Descripción",
+        "read now": "Leer ahora",
+        "copy link": "Copiar enlace",
+        "close menu": "Cerrar menú"
+    },
+    "discoverArchive": {
+        "title": "Lo que había aquí",
+        "intro": "El menú Descubrir era antes una integración innovadora que conectaba a los usuarios con sus recomendaciones personales de Goodreads. No era una simple integración de API—Goodreads no proporciona una API pública, y protege activamente el acceso a su plataforma, incluso para los usuarios que acceden a sus propias cuentas.",
+        "technicalAchievement": {
+            "title": "El reto técnico",
+            "paragraph1": "Para superar estas limitaciones, desarrollamos una solución sofisticada utilizando web scraping basado en Selenium a través de nuestra arquitectura de plugins. El desafío técnico más significativo fueron los mecanismos de protección agresivos de Goodreads, incluidos CAPTCHAs diseñados para prevenir el acceso automatizado.",
+            "paragraph2a": "Nuestra solución aprovechó ",
+            "paragraph2b": ", un modelo de última generación para el reconocimiento automático de voz (ASR) y traducción de voz. Después de implementar filtrado de audio tradicional y preprocesamiento, logramos una ",
+            "paragraph2c": ", permitiendo el acceso automatizado a las recomendaciones de los usuarios.",
+            "whisper": "Whisper de OpenAI",
+            "accuracy": "precisión en la resolución de CAPTCHAs accesibles superior al 90%"
+        },
+        "userFeatures": {
+            "title": "Funcionalidades de UX",
+            "intro": "La integración proporcionaba a los usuarios una experiencia fluida para:",
+            "feature1": "Ver recomendaciones de libros personalizadas de su propia cuenta de Goodreads",
+            "feature2": "Explorar recomendaciones organizadas por género y categoría",
+            "feature3": "Marcar libros como leídos, por leer o leyendo actualmente"
+        },
+        "screenshot": {
+            "title": "Un vistazo a la interfaz",
+            "description": "A continuación se muestra una captura de pantalla de una versión temprana de la interfaz de recomendaciones extraídas de Goodreads. Representa la intersección de IA avanzada, el procesamiento de audio y la automatización web para ofrecer valor donde el acceso tradicional a la API no estaba disponible.",
+            "caption": "Versión temprana de la integración de recomendaciones de Goodreads mostrando sugerencias de libros personalizadas",
+            "alt": "Captura de pantalla de la integración de Goodreads en BookMinder"
+        },
+        "impact": {
+            "title": "Impacto",
+            "intro": "Esta funcionalidad demostró nuestra capacidad para:",
+            "point1": "Resolver desafíos técnicos complejos",
+            "point1Detail": "mediante la aplicación creativa de tecnología de IA",
+            "point2": "Construir arquitecturas de plugins robustas",
+            "point2Detail": "para funcionalidad extensible",
+            "point3": "Implementar pipelines avanzados de procesamiento de audio",
+            "point3Detail": "para la resolución de problemas del mundo real",
+            "point4": "Navegar límites legales y éticos",
+            "point4Detail": "proporcionando valor legítimo al usuario",
+            "point5": "Lograr alta confiabilidad",
+            "point5Detail": "en entornos adversos frente a la automatización"
+        },
+        "footer": "Aunque esta integración ya no está activa, fue un logro importante al superar las restricciones de la plataforma usando IA y automatización de forma innovadora. Las técnicas que desarrollamos siguen guiando nuestro trabajo en proyectos complejos."
+    },    
+    "profile": {
+        "avatar": "Cambia tu avatar",
+        "password": "Cambia tu contraseña"
+    },
+    "newUser": {
+        "header": {
+            "add new user": "Añadir nuevo usuario",
+            "new username": "Nuevo nombre de usuario",
+            "change library access": "Cambiar acceso a bibliotecas",
+            "token": "URL de acceso para el nuevo usuario"
+        },
+        "content": {
+            "token": "El usuario podrá acceder a su cuenta a través de esta URL."
+        },
+        "buttons": {
+            "continue": "Continuar",
+            "finish": "Finalizar",
+            "close": "Cerrar"
+        }
+    },
+    "info": {
+        "sent kindle": "El libro debería llegar a tu Kindle en breve",
+        "select a user first": "Selecciona un usuario primero",
+        "link copied": "Enlace copiado al portapapeles",
+        "session reloaded": "Sesión recargada exitosamente"
+    },
+    "reader": {
+        "close book": "Cerrar libro"
+    },
+    "demo": {
+        "modal": {
+            "resetting": {
+                "title": "⏳ Reiniciando al Estado Original...",
+                "message": "La demo se está reiniciando a su estado original.",
+                "wait": "Solo tomará un momento. Por favor espera..."
+            },
+            "busy": {
+                "title": "🚦 Sesión de Demo en Curso",
+                "message": "Otro usuario está explorando la demo actualmente.",
+                "timer": "Tiempo restante:",
+                "firstCome": "¡Primero en llegar, primero en ser atendido! Por favor vuelve cuando expire la sesión."
+            },
+            "available": {
+                "welcome": "¡Bienvenido a la Demo de Bookminder!",
+                "continue": "Continúa tu Sesión de Demo",
+                "duration": "Tienes {minutes} minutos para explorar la aplicación.",
+                "credentials": "Credenciales de Inicio de Sesión por Defecto:",
+                "adminUser": "Usuario Admin",
+                "demoUser": "Usuario Demo",
+                "warning": "⚠️ Todos los datos se reiniciarán después de que expire tu sesión.",
+                "btnStart": "Iniciar Sesión de Demo",
+                "btnContinue": "Continuar Sesión",
+                "btnStarting": "Iniciando Sesión..."
+            },
+            "info": {
+                "header": "Ahora que tengo tu atención por un minuto...",
+                "whatNotToExpect": {
+                    "title": "⚠️ Qué No Esperar",
+                    "speed": "Velocidad de nivel de producción: Estamos sirviendo la aplicación sin empaquetar usando un servidor de desarrollo",
+                    "covers": "Búsqueda de portadas sin errores 404: Aunque usamos un componente \"inteligente\" que renderiza una portada predeterminada con varios diseños cuando la original no está presente, su comportamiento actual se basa en que la imagen original devuelva un 404",
+                    "code": "Código súper limpio: Esto es parte de un Proyecto Final de un Ciclo Formativo con un número irrealmente bajo de horas recomendadas. Trabajé rápido y sin descanso, y tuve que hacer algunas concesiones"
+                },
+                "features": {
+                    "title": "✨ Características Principales",
+                    "organization": "Organización Inteligente: Organiza tus libros en bibliotecas y carpetas con categorización flexible",
+                    "reader": "Lector Integrado: Lee EPUBs directamente en tu navegador con integración de Foliate.js",
+                    "metadata": "Gestión de Metadatos: Extracción automática de metadatos usando herramientas de Calibre",
+                    "multilang": "Soporte Multiidioma: Interfaz disponible en inglés, sueco y español",
+                    "plugins": "Sistema de Plugins: Extiende la funcionalidad con plugins basados en Docker",
+                    "rbac": "Control de Acceso Basado en Roles: Sistema de permisos granular para entornos multiusuario"
+                },
+                "limitations": {
+                    "title": "🔌 Limitaciones de la Demo",
+                    "message": "Este es un entorno de demostración con tiempo limitado. Algunas características pueden estar restringidas o deshabilitadas. ¡Para la experiencia completa, considera auto-hospedar tu propia instancia!"
+                },
+                "getStarted": {
+                    "title": "🚀 Comenzar",
+                    "message": "Bookminder es de código abierto y está disponible en GitHub. Puedes ejecutarlo en tu propio servidor usando Docker, dándote control completo sobre tu biblioteca de libros sin dependencias en la nube."
+                },
+                "tips": {
+                    "title": "💡 Consejos para Esta Demo",
+                    "accounts": "Prueba tanto la cuenta admin como la demo para ver diferentes niveles de permisos",
+                    "createUsers": "Crea nuevos usuarios y pasa por su página de inscripción/configuración. Inicia sesión con ellos (ten en cuenta que se les dan al menos privilegios de Admin a menos que hayas cambiado el Rol predeterminado durante tu sesión). No cambies de navegador al crear nuevos usuarios en esta instancia de demo",
+                    "gutenberg": "Explora los libros precargados de Project Gutenberg en varios idiomas",
+                    "reader": "Prueba el lector EPUB integrado con cualquier libro",
+                    "libraries": "Explora las características de gestión y organización de bibliotecas",
+                    "plugins": "Echa un vistazo al sistema de plugins en la configuración, particularmente si tienes una cuenta de autenticación SMTP tradicional que permite enviar adjuntos. No te preocupes—cualquier dato personal que proporciones solo se almacena durante la duración de tu sesión"
+                },
+                "contact": "¿Preguntas o comentarios? No dudes en contactar o consultar el repositorio de GitHub para documentación y actualizaciones."
+            }
+        }
+    },
+    "gutenberg": {
+        "select library": "Seleccionar Biblioteca",
+        "select library instruction": "Elige a qué biblioteca descargar este libro:",
+        "downloading": "Descargando...",
+        "download to library": "Descargar a Biblioteca",
+        "download started": "Descarga iniciada. El libro será procesado y añadido a tu biblioteca en breve.",
+        "download success": "¡Libro descargado exitosamente! Aparecerá en tu biblioteca una vez completado el procesamiento.",
+        "no libraries available": "No tienes permiso para añadir libros a ninguna biblioteca. Por favor, contacta con un administrador.",
+        "add to library": "Añadir a Biblioteca"
+    },
+    "common": {
+        "loading": "Cargando",
+        "cancel": "Cancelar",
+        "global": "Global",
+        "user": "Usuario"
+    }
+}

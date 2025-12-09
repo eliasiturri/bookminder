@@ -1,0 +1,66 @@
+{
+    "global": [
+        {
+            "name": "The Classic Collection",
+            "description": "A curated selection of timeless literary masterpieces from around the world.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/classics.png"
+        },
+        {
+            "name": "Literary Treasures",
+            "description": "A collection of highly acclaimed and influential works from various genres.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/treasures.png"
+        },
+        {
+            "name": "Fiction & Fables",
+            "description": "A delightful array of fiction and folklore, perfect for escaping into a world of imagination.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/fiction-and-fables.png"
+        },
+        {
+            "name": "The Reading Room",
+            "description": "A quiet corner filled with the best of English literature, offering a diverse range of genres.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/reading-room.png"
+        },
+        {
+            "name": "Timeless Tales",
+            "description": "A selection of stories that have stood the test of time and continue to captivate readers.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/timeless-tales.png"
+        }
+    ],
+    "user": [
+        {
+            "name": "Recommended by Marc",
+            "description": "A personalized collection of books handpicked by Marc for his personal reading journey.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/recommended.png"
+        },
+        {
+            "name": "My Classic Favorites",
+            "description": "My own favorite classics, with a mix of must-read and beloved literary works.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/favorites.png"
+        },
+        {
+            "name": "Books for a Rainy Day",
+            "description": "Perfect for those gloomy days, this collection offers comfort and inspiration.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/rainy.png"
+        },
+        {
+            "name": "My Must-Reads",
+            "description": "A list of books that Marc highly recommends, including hidden gems and essential reads.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/must-read.png"
+        },
+        {
+            "name": "Weekend Reading Picks",
+            "description": "Books selected for a relaxing weekend read, ideal for getting lost in a story.",
+            "folders": [""],
+            "libraryCover": "/opt/demo-data/library-images/weekend.png"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+.book-holder {
+    display: flex;
+    padding: 1rem;
+}
+
+.book-element {
+    display: flex;
+    min-width: 600px;
+    max-width: 1000px;
+    padding: 1rem;
+    flex: 1 1 160px;
+}
+
+.cover-holder {
+    margin-right: 15px;
+}
+
+.card {
+    border: 1px solid #e8e8e8;
+    background-color: rgb(248, 248, 248);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.extension-size-holder {
+    display: flex;
+    justify-content: start;
+    margin-top: 0.5rem;
+}
+
+.extension-size-holder span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.5rem;
+    padding: 0.05rem 0.5rem;
+    min-width: 60px;
+    border-radius: 5px;
+}
+
+.extension-size-holder span:last-child {
+    color: #818181;
+    border: 1px solid #818181;
+}
+
+.extension-size-holder span:first-child {
+    background-color: #007bff;
+    color: white;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

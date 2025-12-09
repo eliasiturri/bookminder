@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bcrypt": "^5.1.1",
+    "better-sqlite3": "^11.0.0",
+    "fs-extra": "^11.2.0",
+    "busboy": "^1.6.0",
+    "connect-sqlite3": "^0.9.15",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "jimp": "^0.22.12",
+    "jsonwebtoken": "^9.0.2",
+    "lokijs": "^1.5.12",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7",
+    "uuid": "^10.0.0",
+    "vue-multiselect": "^3.0.0-beta.3",
+    "vue3-iframe": "^0.0.7",
+    "vue3-lazyload": "^0.3.8"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "start-local-dev": "nodemon --env-file=.env_local_dev server.js",
+    "fetch-demo-assets": "node ./demo/fetch_demo_assets.js",
+    "generate-gutenberg-demo": "node ./demo/generate_gutenberg_demo.js",
+    "seed-generated-demo": "node ./demo/seed_from_generated.js",
+    "seed-authors-images": "node ./demo/seed_authors_images.js"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "plugins/",
+      "node_modules/"
+    ]
+  }
+}

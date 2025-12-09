@@ -1,0 +1,4 @@
+requests
+flask[async]
+flask-cors
+Flask

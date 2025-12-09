@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+  bookminder:
+    container_name: bookminder
+    user: root
+    build:
+      context: ..
+      dockerfile: bundle_docker/Dockerfile
+    dns:
+      - 1.1.1.1
+      - 8.8.8.8
+      - 9.9.9.9
+    volumes:
+      - ../bookminder_server:/opt/bookminder/bookminder_server
+      - ../bookminder_vite:/opt/bookminder/bookminder_vite
+      # Anonymous volume for node_modules to prevent it from being overwritten
+      - /opt/bookminder/bookminder_vite/node_modules
+      - /opt/bookminder/bookminder_server/node_modules
+      # Data directories
+      - ./bookminder-data/bookminder-data/global:/opt/data/global
+      - ./bookminder-data/bookminder-data/user:/opt/data/user
+      - ./bookminder-data/bookminder-data/meta:/opt/data/meta
+      - ./bookminder-data/bookminder-data/db:/opt/data/db
+      - ./bookminder-data/bookminder-data/sessions:/opt/data/sessions
+      - ../bookminder_server/demo/assets:/opt/demo-data/
+      #- ./bookminder-data-after-ER/global:/opt/data/global
+      #- ./bookminder-data-after-ER/user:/opt/data/user
+      #- ./bookminder-data-after-ER/meta:/opt/data/meta
+    ports:
+      - "3010:3010"
+      - "5183:5183"
+    env_file:
+      - .env.local
+    command: sh /opt/bookminder/entry.sh
+    networks:
+      - bookminder_network_nginx
+      - bookminder_network_plugins
+    environment:
+      ALLOWED_PLUGINS: "{\"d1393b2e-5985-4c4b-958a-d001c6665115\":\"a91977cc-44f5-4ebb-996f-dc10702a41ba\",\"985f95c0-fe2d-4213-8240-6b3799569cca\":\"7fced399-8388-43f4-89d2-41063e29cf63\",\"3d092020-aa5c-4824-9bc2-693978c5b0e1\":\"93366bbf-40f4-4d50-9a60-456e08dc899d\"}"
+      DEFAULT_FILE_METADATA_PLUGIN_UUID: "985f95c0-fe2d-4213-8240-6b3799569cca"
+networks:
+  bookminder_network_nginx:
+    name: bookminder_network_nginx
+    #external: true
+  bookminder_network_plugins:
+    name: bookminder_network_plugins
+    #external: true   

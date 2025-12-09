@@ -1,0 +1,62 @@
+.open-link-button {
+    display: flex;
+    border-radius: 50%;
+    background-color: rgb(27, 134, 221);
+    padding: 0.7rem;
+    width: auto;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    cursor: pointer;
+}
+
+.open-link-button svg {
+    font-size: 15px;
+}
+
+.button {
+    padding: 0.5rem 1rem;
+    background-color: rgb(27, 134, 221);
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.min-width-button {
+    padding: 0.5rem;
+    background-color: rgb(27, 134, 221);
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.full-width-button {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: rgb(27, 134, 221);
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.flex-justify-center {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-align-center {
+    display: flex;
+    align-items: center;
+}
+
+.button-margin-top {
+    margin-top: 1rem;
+}
+
+.button-row {
+    display: flex;
+    align-items: end;
+    gap: 1rem;
+}

@@ -1,0 +1,177 @@
+<template>
+
+    <div class="component-config-container">
+    
+        <h2 v-if="!fullyAccessible">Sendtokindle Plugin</h2>
+        <h1 v-else>Sendtokindle Plugin</h1>
+    
+        <TabHeaderComponent :tabs="tabs" :selectedTabIdx="selectedTabIdx" :cstyle="['underlined', 'j-center']" @tab-selected="selectTab" class="filter-container-margin-top filter-container-margin-bottom-lg"/>
+    
+        <div class="email-config scroll-container" v-if="selectedTabIdx == 0">
+            <div class="row">
+                <InputWithLabel @input="(value) => configData.host = value" label="Host" placeholder="Type your server's host" :value="configData.host" :showClearIcon="true" />
+            </div>
+            <div class="row">
+                <InputWithLabel @input="(value) => configData.port = value" label="Port" placeholder="Type your server's port" :value="configData.port" :showClearIcon="true" />
+            </div>
+            <div class="row">
+                <InputWithLabel @input="(value) => configData.username = value" label="Username" placeholder="Type your email username" :value="configData.username" :showClearIcon="true" />
+            </div>
+            <div class="row">
+                <InputWithLabel @input="(value) => configData.password = value" label="Password" placeholder="Type your email password" :value="configData.password" :showClearIcon="false" :showShowPasswordIcon="true" type="password" />
+            </div>                
+        </div>
+        <div class="email-list scroll-container" v-else-if="selectedTabIdx == 1">
+            <div class="row" v-for="blob, idx in data">
+                <ColorPicker :value="blob.color" :startWithRandomColor="blob.color == '' ? true : false" :data="idx" @color="colorPicked" marginRight="5px"/>
+                <InputWithLabel @input="(value) => data[idx].email = value" label="Email" placeholder="Type a whitelisted e-mail" :value="blob.email" :margin-right="0.5" margin-right-unit="rem" :showClearIcon="false" />
+                <InputWithLabel @input="(value) => data[idx].alias = value" label="Alias" placeholder="Give this e-mail an alias" :value="blob.alias" :showClearIcon="false" />
+                <DeleteWithConfirm />
+            </div>
+    
+    
+        </div>   
+        <div v-if="selectedTabIdx == 1" class="row button-row full-width-button flex-justify-center flex-align-center" @click="addNew()">
+            <FontAwesomeIcon :icon="plusIcon" />
+            <span>Add a new email</span>
+        </div>      
+        <div class="button-row full-width-button button-margin-bottom flex-justify-center flex-align-center" @click="saveData()">
+            <FontAwesomeIcon :icon="saveIcon" />
+            <span>Save changes</span>
+        </div>     
+        <div class="button-row full-width-button flex-justify-center flex-align-center" @click="closeConfig()">
+            <FontAwesomeIcon :icon="closeIcon" />
+            <span>Close</span>
+        </div>        
+    </div>
+    
+    </template>
+    
+    <script>
+    
+    import { mapState } from 'pinia'
+    import { useGutenbergSearchStore } from '../../d1393b2e-5985-4c4b-958a-d001c6665115/stores/search'
+    
+    import { VueFinalModal } from 'vue-final-modal'
+    
+    import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+    import { faPlus, faFloppyDisk, faListUl, faClose } from '@fortawesome/free-solid-svg-icons'
+    
+    import InputWithLabel from '@/components/input/InputWithLabel.vue'
+    
+    import ColorPicker from '@/components/input/ColorPicker.vue'
+    import DeleteWithConfirm from '@/components/actions/DeleteWithConfirm.vue'
+    
+    import { useSendToKindleStore } from '../stores/sendToKindle'
+    
+    import TabHeaderComponent from '@/components/TabHeaderComponent.vue'
+    
+    export default {
+        name: 'Settings',
+        data() {
+            return {
+                plusIcon: faPlus,
+                saveIcon: faFloppyDisk,
+                closeIcon: faClose,
+                data: [],
+                configData: {
+                    host: "smtp.mail.yahoo.com",
+                    port: "465",
+                    username: "cestgarcia@yahoo.es",
+                    password: "iulgtwxgftubmqfz",
+                },  
+                tabs: [
+                    {
+                        name: 'Email Server Configuration',
+                    },
+                    {
+                        name: 'Email List',
+                    }
+                ],   
+                selectedTabIdx: 0,
+                store: useSendToKindleStore()
+            }
+        },   
+        
+        computed: {
+    
+    
+        },
+        emits: ['close', 'get-settings'],
+        methods: {
+    
+        },
+        async mounted() {
+    
+        },    
+        components: {
+            FontAwesomeIcon,
+            InputWithLabel,
+            ColorPicker,
+            DeleteWithConfirm,
+            TabHeaderComponent
+        }
+        
+    }
+    
+    </script>
+    
+    <style>
+    
+    .vfm {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .vfm__container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .modal-content {
+        width: 600px;
+        height: 600px;
+        background-color: white;
+    }
+    
+    .full-page {
+        width: 100%;
+        height: 100%;
+        background-color: white;
+    
+    }
+    </style>
+    
+    <style scoped>
+    @import '@/assets/css/inputs.css';
+    @import '@/assets/css/buttons.css';
+    @import '@/assets/css/paddings.css';
+    @import '@/assets/css/containers.css';
+    @import '@/assets/css/accessibility.css';
+    
+    .component-config-container {
+        display: flex;
+        flex-direction: column;    
+        padding: 20px 30px;
+        height: 100%;
+    }
+    
+    .row {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    
+    .button-row span {
+        margin-left: 0.5rem;
+    }
+    
+    .button-margin-bottom {
+        margin-bottom: 0.4rem;
+    }
+    
+    </style>

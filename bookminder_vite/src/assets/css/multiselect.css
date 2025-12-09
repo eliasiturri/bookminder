@@ -1,0 +1,23 @@
+::v-deep.multiselect .multiselect__tags,
+::v-deep.multiselect .multiselect__content,
+::v-deep.multiselect .multiselect__tags span {
+    background-color: var(--secondary-bg-color);
+    color: var(--primary-text-color);
+}
+::v-deep.multiselect input {
+    background-color: var(--secondary-bg-color);
+    color: var(--primary-text-color);
+}
+
+::v-deep.multiselect input::placeholder {
+    color: var(--secondary-text-color);
+}
+
+::v-deep.multiselect--disabled.multiselect,
+::v-deep.multiselect--disabled .multiselect__tags {
+    border-radius: 5px;
+}
+
+::v-deep.multiselect--disabled .multiselect__select {
+    background: transparent;
+}

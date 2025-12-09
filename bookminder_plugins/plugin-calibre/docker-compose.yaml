@@ -1,0 +1,33 @@
+services:
+  bookminder-plugin-calibre:
+    container_name: bookminder-plugin-calibre
+    user: root
+    build: .
+    volumes:
+      # Mount the same library data folders as the main bookminder container
+      - ../../bundle_docker/bookminder-data/bookminder-data/global:/opt/data/global
+      - ../../bundle_docker/bookminder-data/bookminder-data/user:/opt/data/user
+      - ../../bundle_docker/bookminder-data/bookminder-data/meta:/opt/data/meta
+    environment:
+      - ALLOWED_ORIGINS="http://localhost:3000,http://localhost:3001"
+      - DEBUG=1
+      
+      - BOOKMINDER_CONTAINER_NAME=bookminder
+      - BOOKMINDER_CONTAINER_PORT=3010
+      - PLUGIN_CONTAINER_NAME=bookminder-plugin-calibre
+      - PLUGIN_CONTAINER_PORT=5000
+      - PLUGIN_CONTAINER_HOST=0.0.0.0
+
+      - PUBLIC_UUID=985f95c0-fe2d-4213-8240-6b3799569cca
+      - PLUGIN_AUTH_TOKEN=7fced399-8388-43f4-89d2-41063e29cf63
+
+      - REGISTRATION_INTERVALE=10
+      - REGISTRATION_RETRY_INTERVAL=10
+
+    networks:
+      - bookminder_network_plugins
+
+networks:
+  bookminder_network_plugins:
+    name: bookminder_network_plugins
+    external: true   

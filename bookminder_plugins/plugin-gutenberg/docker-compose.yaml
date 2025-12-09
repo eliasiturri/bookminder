@@ -1,0 +1,27 @@
+services:
+  bookminder-plugin-gutenberg:
+    container_name: bookminder-plugin-gutenberg
+    build: .
+    environment:
+      - ALLOWED_ORIGINS="http://localhost:3000,http://localhost:3001"
+      - DEBUG=1
+      
+      - BOOKMINDER_CONTAINER_NAME=bookminder
+      - BOOKMINDER_CONTAINER_PORT=3010
+      - PLUGIN_CONTAINER_NAME=bookminder-plugin-gutenberg
+      - PLUGIN_CONTAINER_PORT=5019
+      - PLUGIN_CONTAINER_HOST=0.0.0.0
+
+      - PUBLIC_UUID=d1393b2e-5985-4c4b-958a-d001c6665115
+      - PLUGIN_AUTH_TOKEN=a91977cc-44f5-4ebb-996f-dc10702a41ba
+
+      - REGISTRATION_INTERVALE=10
+      - REGISTRATION_RETRY_INTERVAL=10
+
+    networks:
+      - bookminder_network_plugins
+
+networks:
+  bookminder_network_plugins:
+    name: bookminder_network_plugins
+    external: true   

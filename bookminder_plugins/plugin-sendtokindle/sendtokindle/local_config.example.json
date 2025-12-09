@@ -1,0 +1,9 @@
+{
+  "server": {
+    "mail_host": "smtp.example.com",
+    "mail_port": 465,
+    "mail_username": "your-email@example.com",
+    "mail_password": "your-smtp-password"
+  },
+  "email_list": ["your_kindle_address@kindle.com"]
+}

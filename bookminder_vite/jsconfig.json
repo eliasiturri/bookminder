@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "a84a949d-4b73-4099-aacb-8341b4da17ba/*": ["./src/plugins/a84a949d-4b73-4099-aacb-8341b4da17ba/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

@@ -1,0 +1,5 @@
+#pycrypto
+flask[async]
+flask-cors
+Flask
+requests

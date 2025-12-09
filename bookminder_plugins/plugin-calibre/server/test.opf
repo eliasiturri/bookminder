@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="calibre_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Bleeding Edge</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Pynchon, Thomas">Pynchon, Thomas</dc:creator>
+    <dc:contributor opf:role="bkp" opf:file-as="calibre">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="calibre_id" opf:scheme="calibre">36197560-2ed7-4f03-81d1-ef20a4ce38f4</dc:identifier>
+    <dc:date>2013-09-16T20:00:00+00:00</dc:date>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Penguin Group US</dc:publisher>
+    <dc:identifier opf:scheme="MOBI-ASIN">B00C5R78JM</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="cover" href="images/calibre_cover.jpg" media-type="image/jpeg"/>
+    <item id="id147" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id146" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id145" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id144" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="id143" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id142" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="id141" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="id140" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="id139" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="id138" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_009.html" media-type="application/xhtml+xml"/>
+    <item id="id137" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_010.html" media-type="application/xhtml+xml"/>
+    <item id="id136" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_011.html" media-type="application/xhtml+xml"/>
+    <item id="id135" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_012.html" media-type="application/xhtml+xml"/>
+    <item id="id134" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_013.html" media-type="application/xhtml+xml"/>
+    <item id="id133" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_014.html" media-type="application/xhtml+xml"/>
+    <item id="id132" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_015.html" media-type="application/xhtml+xml"/>
+    <item id="id131" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_016.html" media-type="application/xhtml+xml"/>
+    <item id="id130" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_017.html" media-type="application/xhtml+xml"/>
+    <item id="id129" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_018.html" media-type="application/xhtml+xml"/>
+    <item id="id128" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_019.html" media-type="application/xhtml+xml"/>
+    <item id="id127" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_020.html" media-type="application/xhtml+xml"/>
+    <item id="id126" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_021.html" media-type="application/xhtml+xml"/>
+    <item id="id125" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_022.html" media-type="application/xhtml+xml"/>
+    <item id="id124" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_023.html" media-type="application/xhtml+xml"/>
+    <item id="id123" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_024.html" media-type="application/xhtml+xml"/>
+    <item id="id122" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_025.html" media-type="application/xhtml+xml"/>
+    <item id="id121" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_026.html" media-type="application/xhtml+xml"/>
+    <item id="id120" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_027.html" media-type="application/xhtml+xml"/>
+    <item id="id119" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_028.html" media-type="application/xhtml+xml"/>
+    <item id="id118" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_029.html" media-type="application/xhtml+xml"/>
+    <item id="id117" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_030.html" media-type="application/xhtml+xml"/>
+    <item id="id116" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_031.html" media-type="application/xhtml+xml"/>
+    <item id="id115" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_032.html" media-type="application/xhtml+xml"/>
+    <item id="id114" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_033.html" media-type="application/xhtml+xml"/>
+    <item id="id113" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_034.html" media-type="application/xhtml+xml"/>
+    <item id="id112" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_035.html" media-type="application/xhtml+xml"/>
+    <item id="id111" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_036.html" media-type="application/xhtml+xml"/>
+    <item id="id110" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_037.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_038.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_039.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_040.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_041.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_042.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_043.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_044.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_045.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_046.html" media-type="application/xhtml+xml"/>
+    <item id="id3" href="images/00001.jpg" media-type="image/jpeg"/>
+    <item id="id4" href="images/00002.jpg" media-type="image/jpeg"/>
+    <item id="id5" href="images/00003.jpg" media-type="image/jpeg"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="titlepage"/>
+    <itemref idref="id147"/>
+    <itemref idref="id146"/>
+    <itemref idref="id145"/>
+    <itemref idref="id144"/>
+    <itemref idref="id143"/>
+    <itemref idref="id142"/>
+    <itemref idref="id141"/>
+    <itemref idref="id140"/>
+    <itemref idref="id139"/>
+    <itemref idref="id138"/>
+    <itemref idref="id137"/>
+    <itemref idref="id136"/>
+    <itemref idref="id135"/>
+    <itemref idref="id134"/>
+    <itemref idref="id133"/>
+    <itemref idref="id132"/>
+    <itemref idref="id131"/>
+    <itemref idref="id130"/>
+    <itemref idref="id129"/>
+    <itemref idref="id128"/>
+    <itemref idref="id127"/>
+    <itemref idref="id126"/>
+    <itemref idref="id125"/>
+    <itemref idref="id124"/>
+    <itemref idref="id123"/>
+    <itemref idref="id122"/>
+    <itemref idref="id121"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference type="text" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_004.html#filepos6648" title="Start"/>
+    <reference type="toc" href="CR!YPGFT70NB57GHBJF77RXSM9DR9A2_split_003.html#filepos3733" title="Table of Contents"/>
+    <reference type="cover" href="titlepage.xhtml"/>
+    <reference type="other.ms-coverimage-standard" href="titlepage.xhtml"/>
+    <reference type="other.ms-coverimage" href="titlepage.xhtml"/>
+  </guide>
+</package>

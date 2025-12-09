@@ -1,0 +1,132 @@
+@import './base.css';
+@import 'vue-final-modal/style.css';
+
+html, body {
+  scroll-behavior: smooth;
+
+}
+
+
+html {
+  /* To make use of full height of page*/
+  min-height: 100%;
+  margin: 0;
+}
+body {
+  min-height: 100%;
+  margin: 0;
+}
+
+#app {
+  display: flex;
+  margin: 0;
+  /**padding: 2rem;**/
+  font-weight: normal;
+  min-width: 100%;
+  min-height: 100vh;
+  max-width: 100%;
+  overflow: auto;
+  overflow-x: hidden;
+  overflow: initial;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  background-color: var(--primary-bg-color);
+  color: var(--primary-text-color);
+  flex: 1;
+  z-index: 199;
+  position: relative;
+  overflow: auto;
+  
+}
+
+.main-pad {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  background-color: var(--primary-bg-color);
+  color: var(--primary-text-color);
+  flex: 1;
+  overflow: hidden;
+  padding: 2rem;
+}
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    /**place-items: center;**/
+  }
+
+  #app {
+    display: flex;
+    /**padding: 2rem;**/
+    min-width: 100%;
+    min-height: 100vh;
+  }
+}
+
+/** VueSafeHtml **/
+
+b {
+  font-weight: bold;
+}
+
+.main-max-width {
+  max-width: 1865px !important;
+}
+
+.main-constrainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: start;
+  background-color: var(--primary-bg-color);
+  padding: 2rem 2rem 4rem 2rem; /*calc(65px + 2rem) 2rem 4rem 2rem;*/
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.vms-contrast .multiselect__placeholder {
+  font-weight: 900;
+  color: var(--primary-background-color);
+}
+
+.h-fit {
+  height: fit-content;
+}
+
+/* Constrain toast notifications to match main content width */
+.Vue3Toastify__toast-container {
+  max-width: 1865px !important;
+  right: 50% !important;
+  transform: translateX(50%);
+}
+
+/* Adjust for mobile */
+@media (max-width: 1865px) {
+  .Vue3Toastify__toast-container {
+    right: 0 !important;
+    transform: none;
+  }
+}

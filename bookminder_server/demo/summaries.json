@@ -1,0 +1,967 @@
+{
+    "1": {
+        "title": "Alice's Adventures in Wonderland",
+        "author_name": "Lewis Carroll",
+        "summary": "Alice, a young girl, falls down a rabbit hole into a fantastical world filled with eccentric creatures and absurd adventures. She encounters the White Rabbit, the Cheshire Cat, the Mad Hatter, and many other strange characters in a dreamlike, nonsensical journey. Throughout her adventures, Alice is confronted with confusing logic, paradoxical conversations, and surreal events that challenge her sense of reality and identity. The world she enters seems to defy all rules of time, space, and reason, creating a whimsical atmosphere of absurdity.",
+        "summary_extended": "As Alice travels deeper into Wonderland, she experiences a series of peculiar transformations, both physical and psychological. She grows and shrinks in size at random, struggles to make sense of the bizarre characters and their cryptic behavior, and finds herself in increasingly strange situations. Despite the chaos, Alice's curiosity and determination drive her to keep exploring, reflecting a spirit of adventure and questioning. Her journey ultimately challenges the boundaries of childhood innocence and reason, offering readers a satirical look at the adult world, societal norms, and the process of self-discovery."
+    },
+    "2": {
+        "title": "The Jungle",
+        "author_name": "Upton Sinclair",
+        "summary": "This novel depicts the harsh conditions and exploitation of immigrant workers in the meatpacking industry in Chicago in the early 20th century. The story follows Jurgis Rudkus, a Lithuanian immigrant, and his family as they try to build a better life in America, only to face corruption, labor abuses, and unsafe working conditions. Sinclair exposes the dark side of industrialization and the capitalist system, showing how workers are treated as disposable commodities in a world driven by profit.",
+        "summary_extended": "Jurgis and his family are initially full of hope as they arrive in Chicago, believing in the American Dream. However, they quickly realize that the reality of life in the industrialized city is far harsher than they anticipated. As Jurgis struggles to support his family, he faces physical and emotional hardships that break him down. The novel delves deeply into the exploitation of workers, the lack of workers' rights, and the unsanitary conditions in the meatpacking plants. Sinclair's graphic descriptions of the meatpacking industry shocked readers at the time and contributed to reforms in labor laws and food safety."
+    },
+    "3": {
+        "title": "The $30,000 Bequest, and Other Stories",
+        "author_name": "Mark Twain",
+        "summary": "This collection of short stories features Mark Twain's signature humor and satire. The titular story follows a man who unexpectedly inherits $30,000 but encounters a series of ironic complications that prevent him from enjoying his newfound wealth. The stories showcase Twain's sharp wit and commentary on human nature, society, and the absurdities of life. His characters are often caught in situations that reveal their greed, vanity, or foolishness, with humorous yet pointed observations about human behavior.",
+        "summary_extended": "The remaining stories in the collection explore a variety of situations, from comical misunderstandings to social critiques. Twain masterfully uses humor to reflect on the quirks and contradictions of society, offering both lighthearted entertainment and deeper reflections on the human condition. His stories often involve themes of moral lessons, social justice, and the folly of human aspirations. Twain's ability to balance comedy with serious reflections on human nature is evident throughout the collection, making it a timeless example of his literary skill."
+    },
+    "4": {
+        "title": "The Mayor of Casterbridge",
+        "author_name": "Thomas Hardy",
+        "summary": "The novel follows the life of Michael Henchard, a poor young man who, in a moment of drunken recklessness, sells his wife and child at a fair. Later, he rises to become the respected mayor of the fictional town of Casterbridge, but his past actions eventually catch up with him. Hardy examines the complexities of human nature, guilt, and fate, showing how Henchard’s earlier decisions continue to haunt him as he struggles with his own sense of morality and social reputation.",
+        "summary_extended": "As Henchard’s power and influence in the town grow, he becomes increasingly obsessed with maintaining his position and controlling his destiny. His attempts to rectify past wrongs lead to tragedy, as he is consumed by guilt, pride, and an inability to forgive himself. Hardy's portrayal of Henchard's downfall is both poignant and tragic, illustrating the consequences of human error and the inescapable nature of fate. Through Henchard’s story, Hardy explores themes of love, revenge, and the inevitable impact of one’s actions on the course of life."
+    },
+    "5": {
+        "title": "Jude the Obscure",
+        "author_name": "Thomas Hardy",
+        "summary": "Jude Fawley is a young man with intellectual aspirations, born into a poor working-class family in the fictional town of Marygreen. Despite his passion for learning, social and economic barriers prevent him from achieving his dreams. He moves to the city of Christminster, hoping to study at the university, but his life is filled with misfortune and struggle. His personal relationships, particularly his troubled marriages, become central to the story as Hardy critiques the social and moral norms of Victorian society.",
+        "summary_extended": "Jude’s romantic and professional dreams are thwarted by societal expectations, class divisions, and the limitations placed on individuals by their environment. His complicated relationships with women, including his first wife and his love for his cousin Sue, highlight the challenges of conformity and the consequences of defying conventional social structures. The novel tackles themes such as the oppressive nature of religious and social institutions, the pursuit of knowledge, and the harsh realities faced by those who challenge the status quo. Hardy’s exploration of the human condition is both critical and empathetic, depicting the deep personal and societal struggles that define Jude’s tragic journey."
+    },
+    "6": {
+        "title": "The American",
+        "author_name": "Henry James",
+        "summary": "The novel follows Christopher Newman, a wealthy and self-made American businessman, who travels to Europe and falls in love with a noblewoman named Claire de Cintre. As he becomes increasingly involved in her aristocratic world, he faces challenges from the social conventions and traditions that stand in the way of their marriage. His pursuit of Claire becomes an exploration of cultural differences, social expectations, and the complexities of love across class lines.",
+        "summary_extended": "Newman’s encounter with the de Cintre family and their complex social dynamics highlights the cultural divide between the emerging American wealthy class and the established European aristocracy. As Newman’s love for Claire deepens, he must confront not only the rigid social order but also his own naive understanding of European society. The novel offers a critique of both American idealism and European aristocratic values, questioning the nature of personal identity, love, and ambition within the constraints of social structures."
+    },
+    "7": {
+        "title": "No Name",
+        "author_name": "Wilkie Collins",
+        "summary": "The story follows Magdalen and Norah Vanstone, two sisters who are left destitute after the sudden death of their father. They discover that they are illegitimate and have no claim to their father's fortune, which had been legally bequeathed to others. Magdalen embarks on a quest for revenge and to secure her place in society, resorting to deception and manipulation to change her circumstances.",
+        "summary_extended": "Magdalen's transformation from a naive young woman into a calculating and determined character is central to the plot, as she manipulates those around her to achieve her goals. Collins explores themes of identity, social injustice, and the consequences of abandoning moral principles in the pursuit of self-interest. Through the Vanstone sisters, Collins critiques the rigid social systems of the time, especially the legal and familial institutions that dictated women’s status and rights. The novel is filled with suspense, deception, and psychological drama."
+    },
+    "8": {
+        "title": "Smoke Bellew",
+        "author_name": "Jack London",
+        "summary": "Smoke Bellew is a young man who travels to the Alaskan wilderness in search of adventure and a new life. He becomes involved in the world of gold prospecting and is introduced to a rugged and dangerous life in the frontier. Along the way, Smoke faces physical challenges, encounters new friendships, and is confronted by the harsh realities of the wild.",
+        "summary_extended": "As Smoke works to build a future for himself in the Alaskan wilderness, he learns that survival requires not only physical strength but emotional resilience. The novel explores themes of masculinity, courage, and the human spirit’s ability to adapt in the face of adversity. London’s vivid descriptions of the Alaskan landscape and the struggles of the gold prospectors provide a rich backdrop for Smoke’s personal transformation. The story is a reflection of the themes of individualism and perseverance that often appear in London’s works."
+    },
+    "9": {
+        "title": "The Crock of Gold",
+        "author_name": "James Stephens",
+        "summary": "This novel is a whimsical and philosophical tale that follows a leprechaun named The Crock of Gold as he navigates the human world and interacts with various characters, including philosophers, musicians, and magical beings. The story is filled with Irish folklore, mysticism, and social commentary, blending fantasy with thoughtful reflections on life and society.",
+        "summary_extended": "At the heart of the story is the idea that material wealth and power are not the true sources of happiness. Through the character of The Crock of Gold, Stephens explores themes of love, wisdom, and the conflict between greed and selflessness. The narrative is imbued with humor, but also challenges readers to reflect on their values and the nature of human existence. It is both a magical adventure and a deep exploration of spiritual and philosophical questions."
+    },
+    "10": {
+        "title": "The Mystery of the Yellow Room",
+        "author_name": "Gaston Leroux",
+        "summary": "This detective novel follows the investigation of a mysterious attack on a young woman, Mademoiselle Stangerson, who is found locked in a room with no apparent means of escape for the assailant. The case is baffling, and the investigation involves a complex web of secrets, hidden motives, and strange occurrences. The detective, Joseph Rouletabille, works tirelessly to uncover the truth behind the bizarre events surrounding the yellow room.",
+        "summary_extended": "Leroux masterfully weaves a tale of suspense, using the locked-room mystery trope to build tension and intrigue. Rouletabille’s keen mind and unconventional methods of investigation lead him to uncover a series of unexpected revelations. The novel delves into themes of deception, trust, and the limits of human perception. It combines elements of detective fiction with psychological depth, exploring the intricacies of crime and human behavior, all while keeping readers on edge with its surprising twists and turns."
+    },
+    "11": {
+        "title": "The Odyssey / Rendered into English prose for the use of those who cannot read the original",
+        "author_name": "Homer",
+        "summary": "The Odyssey, an epic poem attributed to Homer, tells the story of Odysseus' long journey home after the Trojan War. It chronicles his adventures as he encounters a series of challenges, including monsters, gods, and temptations that delay his return to Ithaca, where his wife Penelope and son Telemachus await. The poem explores themes of heroism, loyalty, and the enduring human struggle against the forces of fate.",
+        "summary_extended": "The journey of Odysseus is not just a physical one, but a moral and psychological odyssey. As he confronts various supernatural and earthly obstacles, Odysseus must use his wits, strength, and leadership skills to overcome them. His return home is fraught with both external challenges and internal struggles, as he must prove his identity and reclaim his rightful place. Homer’s epic explores the nature of homecoming, the importance of family, and the price of personal ambition, making it a foundational work in Western literature."
+    },
+    "12": {
+        "title": "The Man in Lower Ten",
+        "author_name": "Mary Roberts Rinehart",
+        "summary": "The novel is a mystery that begins with a train wreck and the discovery of a man’s body in the lower ten car of the train. The story follows the efforts of the protagonist, a young woman named Jane, to unravel the mystery of the man’s identity and the events that led to his death. As she digs deeper into the investigation, she finds herself entangled in a web of intrigue, deception, and danger.",
+        "summary_extended": "Rinehart weaves a compelling narrative of suspense and mystery, combining elements of romance and crime. As Jane gets closer to solving the mystery, she encounters a series of twists and false leads that keep the reader guessing. The novel also explores themes of social class, as the investigation centers around the lower classes and the challenges of navigating a world full of secrets and lies. Rinehart’s sharp writing and her ability to create tension make this a classic example of early 20th-century American crime fiction."
+    },
+    "13": {
+        "title": "The Red House Mystery",
+        "author_name": "A. A. Milne",
+        "summary": "This classic detective novel, written by A. A. Milne (best known for creating Winnie-the-Pooh), follows a murder investigation at a country house. The story is centered around a young man named Antony Gillingham, who takes it upon himself to solve the mystery of a man’s death. The case involves an enigmatic murder, an absent-minded detective, and a series of intriguing clues.",
+        "summary_extended": "Milne's writing combines elements of traditional detective fiction with humor and wit. The novel is filled with playful dialogue and interesting characters, but it also presents a complex mystery for readers to unravel. Gillingham, along with his friend Bill, embarks on a journey of deduction and discovery, piecing together the clues left behind by the murderer. The novel explores themes of logic, reasoning, and the human tendency to misinterpret or overlook important details. Despite the humor and light-hearted moments, Milne’s portrayal of the detective genre is clever and thought-provoking."
+    },
+    "14": {
+        "title": "The Call of the Canyon",
+        "author_name": "Zane Grey",
+        "summary": "Set in the American West, this novel follows a young woman named Joan, who is torn between her love for two men: a man of the city, and a rugged cowboy. As Joan navigates her romantic feelings, the story unfolds against the backdrop of the Arizona desert and the Grand Canyon, where the landscape itself becomes a character in the narrative.",
+        "summary_extended": "The novel delves into themes of love, loyalty, and the call of the wilderness. Joan’s internal struggle mirrors the larger conflict between the civilization of the city and the untamed beauty of the American frontier. As the characters' lives become intertwined, they must confront the emotional and physical challenges posed by the unforgiving environment. Grey’s vivid descriptions of the desert landscape and the characters' experiences in nature create a rich and immersive atmosphere, while also exploring deeper themes of self-discovery and personal growth."
+    },
+
+    "15": {
+        "title": "Extracts from Adam's Diary, translated from the original ms.",
+        "author_name": "Mark Twain",
+        "summary": "Mark Twain’s ‘Extracts from Adam’s Diary’ is a humorous and satirical work that reimagines the biblical story of Adam and Eve. Presented as excerpts from Adam’s personal diary, the book details his thoughts on the creation of the world, his first experiences with Eve, and the early days of humanity. Twain’s wit shines through in Adam’s reflections on the absurdities of his new life and the arrival of Eve, his companion in the Garden of Eden.",
+        "summary_extended": "The diary entries are filled with Twain’s characteristic humor, offering a playful critique of religion, society, and human nature. As Adam struggles to understand the world around him, his growing relationship with Eve becomes a central theme. The book humorously portrays Adam’s misunderstandings of love, marriage, and his role in the world. Twain’s sharp commentary on human behavior and the complexities of relationships are woven into this light-hearted retelling of the creation story, making it an entertaining read full of clever insights and satire."
+    },
+    "16": {
+        "title": "The Outlet",
+        "author_name": "Andy Adams",
+        "summary": "Set in the American West, ‘The Outlet’ tells the story of a young cowboy named Buck who works on a cattle ranch. The narrative follows his struggles and adventures as he works to prove his worth in the rough, demanding world of cattle herding. As Buck learns valuable lessons about loyalty, honor, and courage, he faces both external challenges and internal dilemmas about his place in the world.",
+        "summary_extended": "The novel explores the harsh realities of cowboy life in the late 19th century, offering a vivid portrayal of ranching culture and the relationship between men and animals. The story touches on themes of identity, self-reliance, and the connection between individuals and the land they work on. Through Buck’s experiences, Adams paints a picture of the untamed frontier, where the struggle for survival often requires not only physical strength but emotional fortitude. The novel is a classic Western tale that highlights the personal growth that can arise from adversity."
+    },
+    "17": {
+        "title": "The Bat",
+        "author_name": "Stephen Vincent Benét",
+        "summary": "In ‘The Bat,’ the protagonist, an anonymous narrator, recounts the eerie experiences of a mysterious figure known only as the Bat. The story unfolds as a series of strange events and occurrences that plague a small town, leading the narrator to uncover dark secrets about the Bat and the sinister forces at play.",
+        "summary_extended": "The novella blends elements of Gothic fiction and mystery, creating a chilling atmosphere where reality and the supernatural intertwine. As the narrator investigates the Bat’s origins and motives, the tension mounts, and the story builds to a gripping and eerie climax. Benét uses his signature storytelling style to craft a narrative that delves into human fear, superstition, and the unknown, exploring how the presence of the Bat disrupts the quiet lives of those around him."
+    },
+    "18": {
+        "title": "Island Tales / On the Makaloa Mat",
+        "author_name": "Jack London",
+        "summary": "‘Island Tales’ is a collection of stories set in the Hawaiian Islands, focusing on the lives of those who inhabit these tropical lands. The stories capture the unique beauty and challenges of island life, with themes of love, survival, and the clash between different cultures. London paints a vivid picture of the islands' natural environment and the struggles of the people who call them home.",
+        "summary_extended": "In these tales, London explores the tension between nature and human civilization, often showcasing the indomitable will of individuals to survive in the harsh and isolated conditions of the islands. The stories reflect London’s fascination with adventure, the raw power of nature, and the complexities of human relationships. Through tales of seafaring, romance, and cultural conflict, London’s characters confront the powerful forces of both the natural world and societal expectations, all set against the stunning backdrop of the Pacific islands."
+    },
+    "19": {
+        "title": "The Iliad",
+        "author_name": "Homer",
+        "summary": "Homer’s ‘The Iliad’ is one of the greatest epic poems of ancient Greece, detailing the events of the Trojan War and the legendary heroes involved in the conflict. The story focuses on the wrath of Achilles, the greatest of the Greek warriors, and his anger at Agamemnon, the leader of the Greek forces. As the war rages on, Achilles’ absence from the battlefield has profound consequences for the Greeks and the course of the war.",
+        "summary_extended": "The epic is filled with themes of honor, fate, and the human cost of war. It explores the personal struggles of its characters, from the noble Hector, prince of Troy, to the mighty Achilles, as they grapple with pride, vengeance, and their own mortality. The Iliad also delves into the influence of the gods in human affairs, with divine interventions shaping the outcomes of key battles. The poem ultimately reflects on the tragic nature of war, the pursuit of glory, and the fleeting nature of life, making it a profound meditation on human existence."
+    },
+    "20": {
+        "title": "The Curly-Haired Hen",
+        "author_name": "A. Vimar",
+        "summary": "‘The Curly-Haired Hen’ is a light-hearted children’s story that revolves around a hen with curly feathers who becomes the subject of various adventures. Through a series of amusing and whimsical events, the hen discovers the joys and trials of life, making new friends along the way and learning valuable lessons about perseverance and friendship.",
+        "summary_extended": "The story is filled with vibrant characters and fun scenarios that keep young readers engaged. The hen’s journey is one of self-discovery and growth, as she learns how to navigate challenges and make the best of any situation. With its charming illustrations and delightful storytelling, ‘The Curly-Haired Hen’ imparts important values such as kindness, cooperation, and the importance of staying true to oneself, making it a timeless tale for children."
+    },
+    "21": {
+        "title": "Milly and Olly",
+        "author_name": "Mrs. Humphry Ward",
+        "summary": "‘Milly and Olly’ tells the story of two children, Milly and Olly, who live in a rural setting and face a variety of adventures and challenges as they grow up. The novel follows their personal development and relationships with others as they navigate the complexities of life, family, and friendship.",
+        "summary_extended": "The book is a coming-of-age story that explores themes of innocence, the bond between siblings, and the trials of childhood. Through Milly and Olly’s experiences, the author reflects on the process of growing up and the lessons learned along the way. The children’s adventures provide a lens through which the adult world is observed, offering gentle insights into human nature, love, and the passing of time. The novel is written in a warm and engaging style, making it both entertaining and thoughtful."
+    },
+    "22": {
+        "title": "The New Dr. Price Cookbook",
+        "author_name": "Royal Baking Powder Company",
+        "summary": "This cookbook offers a collection of recipes using Dr. Price’s Baking Powder, providing readers with a variety of culinary ideas for both everyday meals and special occasions. The recipes cover a wide range of dishes, from savory to sweet, and showcase the versatility of the baking powder in cooking and baking.",
+        "summary_extended": "The book is filled with practical tips for both beginner and experienced cooks, offering detailed instructions on how to use Dr. Price’s products effectively. It includes various techniques for baking cakes, pies, breads, and other treats, with an emphasis on making food preparation easier and more efficient. The cookbook also reflects the culinary trends of its time, offering a glimpse into early 20th-century American cuisine and the role of branded products in everyday cooking."
+    },
+    "23": {
+        "title": "Sea-Wolves of the Mediterranean: The grand period of the Moslem corsairs",
+        "author_name": "E. Hamilton Currey",
+        "summary": "‘Sea-Wolves of the Mediterranean’ explores the history and exploits of the infamous Muslim corsairs, who dominated the Mediterranean Sea during the 16th and 17th centuries. These pirates, operating from the Barbary Coast, terrorized European shipping and were known for their daring raids and complex political maneuvering.",
+        "summary_extended": "Currey’s narrative delves into the rise of the corsairs, their battles with European powers, and their role in shaping Mediterranean politics and trade. The book paints a detailed picture of the corsairs’ naval tactics, their interactions with pirates from other regions, and their cultural and religious motivations. The author also examines the impact these pirates had on European economies and societies, highlighting the tension between the East and West during this turbulent period of history."
+    },
+
+    "24": {
+        "title": "Op reis en thuis: Novellen en schetsen",
+        "author_name": "Justus van Maurik",
+        "summary": "‘Op reis en thuis: Novellen en schetsen’ is a collection of short stories and sketches written by Justus van Maurik, a Dutch writer known for his vivid and evocative descriptions of life in his home country. In this work, van Maurik reflects on themes of travel, home, and the complexities of human nature, using both narrative and descriptive prose.",
+        "summary_extended": "The stories in this collection often explore the contrasts between the domestic and the foreign, as the characters navigate their inner and outer journeys. Van Maurik’s observational skills are evident as he describes the landscapes, cultures, and emotional landscapes of the people he writes about. Each story is a portrait of ordinary individuals and their encounters with the wider world, blending the familiar and the unknown to create a thoughtful commentary on life’s fleeting moments."
+    },
+    "25": {
+        "title": "Ted Strong's Motor Car / Or, Fast and Furious",
+        "author_name": "Edward C. Taylor",
+        "summary": "‘Ted Strong’s Motor Car’ is an action-packed adventure story centered on a young man named Ted Strong who finds himself in thrilling situations due to his passion for racing and fast cars. The story unfolds with Ted becoming involved in a race across the countryside, encountering dangerous competitors, and learning valuable life lessons along the way.",
+        "summary_extended": "The book is a fast-paced narrative filled with excitement and youthful energy, as Ted navigates challenges both on and off the racetrack. The story explores themes of competition, determination, and personal growth, with Ted’s experiences teaching him about the importance of integrity and sportsmanship. Through Ted’s adventures, the reader is treated to an exhilarating ride, full of daring stunts and high-speed chases, set against the backdrop of early 20th-century automobile culture."
+    },
+    "26": {
+        "title": "The Ten Pleasures of Marriage / And the Second Part, The Confession of the New Married Couple",
+        "author_name": "A. Marsh",
+        "summary": "‘The Ten Pleasures of Marriage’ is a humorous and light-hearted exploration of the joys and challenges that come with marriage. Written in a playful and didactic style, the book lists ten 'pleasures' of married life, such as companionship, shared adventures, and mutual support. It is followed by a second part that presents the confession of a newlywed couple, revealing the misunderstandings and humorous situations they face in their early married life.",
+        "summary_extended": "The work uses wit and satire to highlight the complexities of love and marriage, offering a comedic take on the domestic sphere. The couple’s confessions reveal how idealistic notions of marriage often clash with reality, and the book playfully addresses common marital issues such as communication, compromise, and intimacy. While the tone remains light, it subtly critiques the societal expectations placed on newlyweds and offers an entertaining commentary on the dynamics of relationships."
+    },
+    "27": {
+        "title": "Dave Ranney / Or, Thirty Years on the Bowery; An Autobiography",
+        "author_name": "Dave Ranney",
+        "summary": "In ‘Dave Ranney / Or, Thirty Years on the Bowery,’ the author recounts his life experiences as a man who spent decades working in New York’s infamous Bowery district. Through this autobiography, Dave Ranney shares his perspective on the lives of the poor and disenfranchised in one of America’s most notorious neighborhoods during the late 19th and early 20th centuries.",
+        "summary_extended": "Ranney’s narrative is both a personal memoir and a social commentary, offering insights into the hardships of life on the streets, the struggles for survival, and the resilience of the human spirit. He chronicles his interactions with a diverse cast of characters, from fellow residents of the Bowery to those trying to escape the area’s harsh realities. The book explores themes of poverty, redemption, and the complexities of urban life, while giving a unique voice to those who lived on society’s fringes."
+    },
+    "28": {
+        "title": "Canterbury",
+        "author_name": "Gordon Home",
+        "summary": "‘Canterbury’ by Gordon Home is a travel narrative that focuses on the city of Canterbury, England, and its historical, cultural, and architectural significance. Home presents an in-depth exploration of the city’s landmarks, including its famous cathedral, and recounts the stories and legends associated with the area, including the famous tale of Chaucer’s ‘Canterbury Tales.’",
+        "summary_extended": "Through detailed descriptions and vivid illustrations, the book captures the charm of Canterbury, blending historical facts with entertaining anecdotes. Home delves into the city’s medieval past, exploring its role in English history, religion, and literature. The book provides a window into the world of pilgrims who journeyed to Canterbury in the Middle Ages, making it both a historical document and a delightful guide for those interested in the rich heritage of this iconic English city."
+    },
+    "29": {
+        "title": "The Port of Missing Men",
+        "author_name": "Meredith Nicholson",
+        "summary": "‘The Port of Missing Men’ is a suspenseful novel that intertwines mystery and romance. The story follows a group of people who are connected by a strange event at a harbor, where several men vanish under mysterious circumstances. The protagonist, a detective or investigator, works to uncover the truth behind these disappearances while navigating a web of secrets, danger, and deceit.",
+        "summary_extended": "As the plot unfolds, the narrative builds tension, leading the reader through a maze of possible motives and suspects. Romance and intrigue blend seamlessly as characters confront their own personal dilemmas alongside the central mystery. Nicholson’s storytelling weaves together elements of suspense, human emotion, and psychological drama, ultimately revealing a deeper exploration of how fate, chance, and human actions intersect to create unforeseen consequences."
+    },
+    "30": {
+        "title": "The Mysterious Rider",
+        "author_name": "Zane Grey",
+        "summary": "Zane Grey’s ‘The Mysterious Rider’ is a Western adventure that follows the story of a man with a mysterious past who comes to a small frontier town. Known only as the ‘Mysterious Rider,’ the man’s identity and motivations are shrouded in secrecy, and he quickly becomes involved in the lives of the local people, including a love interest and various conflicts with outlaws and adversaries.",
+        "summary_extended": "The novel is a classic tale of the American West, with themes of justice, loyalty, and redemption at its core. The mysterious rider must navigate the harsh landscape of the frontier, where survival depends on one’s ability to outwit and outlast others. As the rider’s secrets are gradually revealed, the story delves into questions of morality, revenge, and the consequences of one’s past actions. Grey’s vivid descriptions of the Western landscape and his portrayal of rugged individualism make this an exciting and poignant tale."
+    },
+    "31": {
+        "title": "Nedra",
+        "author_name": "George Barr McCutcheon",
+        "summary": "‘Nedra’ is a romance novel set against a backdrop of intrigue and personal drama. The story revolves around the character of Nedra, a young woman who becomes embroiled in a complex love triangle and faces numerous challenges as she tries to navigate her emotions and desires. As the plot unfolds, Nedra is forced to confront the expectations of society, love, and her own sense of identity.",
+        "summary_extended": "The book delves deeply into themes of love, identity, and personal growth, as Nedra’s journey unfolds across the pages. Her inner conflict is mirrored by the external challenges she faces, including the relationships with those around her and the pressures they place on her decisions. McCutcheon’s writing captures the emotional intensity of love and the choices that come with it, offering a window into the heart and mind of a young woman at a crossroads in her life."
+    },
+    "32": {
+        "title": "The Hill of Dreams",
+        "author_name": "Arthur Machen",
+        "summary": "‘The Hill of Dreams’ by Arthur Machen is a work of supernatural fiction that explores the boundaries between reality and the mystical. The story follows a young man, Lucian, who is drawn to the remote Welsh countryside, where he becomes involved in strange and inexplicable events that seem to transcend ordinary experience. As he delves deeper into the mysteries of the land and its people, Lucian faces visions and encounters that challenge his understanding of reality.",
+        "summary_extended": "The novel is filled with rich, atmospheric descriptions of the landscape, which adds to the otherworldly and eerie tone of the story. Machen’s use of the supernatural is subtle yet powerful, creating a sense of unease and wonder as the protagonist explores the limits of perception and belief. Themes of isolation, personal destiny, and the search for meaning are explored in depth, making ‘The Hill of Dreams’ a fascinating exploration of the human desire to understand the unknown."
+    },
+
+    "33": {
+        "title": "Kernel Cob And Little Miss Sweetclover",
+        "author_name": "George Mitchell",
+        "summary": "‘Kernel Cob And Little Miss Sweetclover’ is a charming children’s story that follows the adventures of Kernel Cob, a friendly and curious boy, and Little Miss Sweetclover, a sweet-natured girl. Together, they embark on various adventures, exploring the countryside and encountering a range of colorful characters along the way.",
+        "summary_extended": "The book is filled with whimsy and gentle humor, as Kernel Cob and Little Miss Sweetclover discover the wonders of nature and friendship. Through their adventures, they learn valuable lessons about kindness, empathy, and the importance of working together. The book’s light-hearted tone and relatable characters make it an enjoyable read for young readers, offering both entertainment and subtle moral lessons."
+    },
+    "34": {
+        "title": "Malta en de Maltezer Orde / De Aarde en haar Volken, 1906",
+        "author_name": "Gaston Vuillier",
+        "summary": "‘Malta en de Maltezer Orde’ is an exploration of the island of Malta and its historical and cultural significance, particularly focusing on the Order of the Knights of Malta. Written by Gaston Vuillier, this work delves into the history of the knights, their role in European politics, and the rich cultural heritage of Malta itself.",
+        "summary_extended": "The book combines travel writing with historical analysis, offering readers a detailed look at Malta’s medieval past and the enduring legacy of the knights. Through vivid descriptions and historical anecdotes, Vuillier paints a picture of the island’s strategic importance and its unique blend of cultures. This work is both informative and captivating, providing readers with a deeper understanding of Malta’s place in European history and its ongoing cultural relevance."
+    },
+    "35": {
+        "title": "Little Prudy's Sister Susy",
+        "author_name": "Sophie May",
+        "summary": "‘Little Prudy’s Sister Susy’ is a children’s story about Susy, a young girl full of life and energy. The book follows Susy’s adventures as she interacts with her family, friends, and the world around her, with each chapter highlighting her growth and the lessons she learns along the way.",
+        "summary_extended": "The story is filled with gentle humor and warmth, as Susy navigates the ups and downs of childhood. Through her experiences, she learns about responsibility, empathy, and the joys of family. Sophie May’s writing captures the innocence and curiosity of youth, making it a delightful read for children. The book’s charm lies in its relatable characters and its celebration of the everyday moments that shape a young girl’s life."
+    },
+    "36": {
+        "title": "The Tale of Peter Rabbit",
+        "author_name": "Beatrix Potter",
+        "summary": "‘The Tale of Peter Rabbit’ by Beatrix Potter is one of the most beloved children’s books of all time. It tells the story of Peter Rabbit, a mischievous young rabbit who disobeys his mother’s warning and sneaks into Mr. McGregor’s garden. There, he faces a series of misadventures as he tries to escape from the farmer’s clutches.",
+        "summary_extended": "The book is filled with charming illustrations and a simple yet engaging narrative that has made it a timeless classic for generations of readers. Peter Rabbit’s curious nature and his eventual realization of the consequences of his actions resonate with young readers, teaching them lessons about obedience and the value of listening to their elders. Beatrix Potter’s gentle storytelling and her exquisite watercolor illustrations make this book a delightful experience for children and adults alike."
+    },
+    "37": {
+        "title": "The Inner Shrine",
+        "author_name": "Basil King",
+        "summary": "‘The Inner Shrine’ by Basil King is a spiritual novel that explores the internal struggles of a young woman named Marie, who grapples with her faith, desires, and the complexities of love. Set in a religious context, the story examines the intersection of personal longing and spiritual devotion.",
+        "summary_extended": "The novel delves into themes of sacrifice, moral conflict, and the search for inner peace, as Marie’s journey reflects the broader human experience of trying to reconcile one’s inner life with external pressures. As she faces emotional turmoil and the expectations placed on her by society and religion, Marie’s character undergoes significant development. The book challenges readers to think about the nature of devotion and the difficult choices one must make in the pursuit of true fulfillment."
+    },
+    "38": {
+        "title": "The Agamemnon of Aeschylus / Translated into English Rhyming Verse with Explanatory Notes",
+        "author_name": "Aeschylus",
+        "summary": "‘The Agamemnon of Aeschylus’ is a translation of the ancient Greek tragedy by the playwright Aeschylus, which is the first play in his famous trilogy, the Oresteia. The play tells the story of King Agamemnon’s return from the Trojan War and the tragic events that unfold, including his murder at the hands of his wife, Clytemnestra, and the ensuing cycle of vengeance within the royal family.",
+        "summary_extended": "In this translation, the complex themes of fate, justice, and divine retribution are brought to the forefront. The work explores the moral consequences of war and the weight of familial duty, as well as the idea that personal actions can lead to generational cycles of violence. Aeschylus’s original drama, filled with powerful language and intense emotional conflict, is presented here in English rhyming verse, with explanatory notes to help modern readers understand the historical and cultural context of the ancient Greek world."
+    },
+    "39": {
+        "title": "Audrey",
+        "author_name": "Mary Johnston",
+        "summary": "‘Audrey’ by Mary Johnston is a historical novel that follows the life of a young woman named Audrey, who faces personal and social challenges in a period of political and social unrest. Set during the American Civil War, Audrey’s story is one of resilience, love, and the quest for personal happiness amidst tumultuous circumstances.",
+        "summary_extended": "The novel’s rich historical backdrop allows the author to explore themes of loyalty, love, and moral integrity, as Audrey navigates the complexities of relationships and personal growth. As the story unfolds, Audrey must confront difficult choices, balancing her own desires with the demands of the world around her. Mary Johnston’s vivid descriptions and deep emotional insights make this a compelling tale of love, conflict, and survival during one of the most transformative times in American history."
+    },
+    "40": {
+        "title": "Faust [part 1]. Translated Into English in the Original Metres",
+        "author_name": "Johann Wolfgang von Goethe",
+        "summary": "‘Faust’ is one of the most important works in German literature, written by Johann Wolfgang von Goethe. Part 1 of the play focuses on Faust’s despair and his pact with the devil, Mephistopheles, in search of ultimate knowledge and experience. The work examines themes of ambition, knowledge, and the human soul, as Faust seeks meaning in life through both intellectual pursuits and sensual pleasures.",
+        "summary_extended": "The play is a rich blend of philosophy, drama, and poetry, presenting Faust’s internal struggle as he grapples with the consequences of his actions. Goethe uses the character of Mephistopheles to challenge Faust’s worldview, leading him into a series of experiences that force him to confront his own limitations and desires. ‘Faust’ Part 1 is a profound exploration of the human condition, capturing the tension between the pursuit of knowledge and the dangers of unchecked ambition."
+    },
+
+    "41": {
+        "title": "Things To Make",
+        "author_name": "Archibald Williams",
+        "summary": "‘Things To Make’ by Archibald Williams is a practical guide designed for young readers, encouraging them to explore their creativity and engage in hands-on projects. The book provides detailed instructions for building various items, from simple toys to more complex contraptions, fostering curiosity and self-sufficiency.",
+        "summary_extended": "The book emphasizes the importance of learning through doing, offering step-by-step guidance on constructing a range of objects. Williams' approachable writing style makes it accessible to children, and the projects cater to a variety of skill levels. Whether building a toy boat or a simple mechanical device, young readers are encouraged to experiment and develop their problem-solving skills. It’s both an educational and fun way to inspire budding inventors and creators."
+    },
+    "42": {
+        "title": "Winston of the Prairie",
+        "author_name": "Harold Bindloss",
+        "summary": "‘Winston of the Prairie’ by Harold Bindloss is an adventure novel set in the American West, focusing on the life of Winston, a young man who moves to the prairie with hopes of finding his fortune. The story explores his challenges and growth as he learns about life in a harsh, unforgiving environment.",
+        "summary_extended": "The novel captures the essence of frontier life, portraying the struggle for survival, the spirit of determination, and the strong sense of community among settlers. Winston’s journey is one of self-discovery as he adapts to the demands of the prairie, facing natural obstacles, conflicts with other settlers, and his own personal dilemmas. Bindloss paints a vivid picture of the landscape and the characters who inhabit it, making the book an engaging read for fans of Western adventure and tales of personal perseverance."
+    },
+    "43": {
+        "title": "Acton's Feud: A Public School Story",
+        "author_name": "Frederick Swainson",
+        "summary": "‘Acton's Feud: A Public School Story’ by Frederick Swainson is a coming-of-age novel set in a British public school. The book follows the rivalry between two students, Acton and his adversary, exploring themes of friendship, competition, and personal growth.",
+        "summary_extended": "The novel takes readers inside the world of a traditional British school, capturing the complex relationships between students and the challenges of adolescence. Acton’s feud with his rival escalates throughout the story, but ultimately, both boys learn valuable lessons about respect, teamwork, and the importance of sportsmanship. Swainson’s depiction of school life, with its mix of humor and drama, makes this a relatable and entertaining story for young readers, particularly those familiar with school dynamics."
+    },
+    "44": {
+        "title": "Daddy Takes Us to the Garden / The Daddy Series for Little Folks",
+        "author_name": "Howard Roger Garis",
+        "summary": "‘Daddy Takes Us to the Garden’ is part of the ‘Daddy Series for Little Folks’ by Howard Roger Garis, a delightful children’s book that follows a father and his children as they explore the wonders of their garden. The story is filled with simple joys and teaches young readers about nature and family.",
+        "summary_extended": "The book’s heartwarming narrative showcases the bond between father and children as they spend time together in the garden. The children learn about plants, animals, and the cycles of nature, fostering curiosity and appreciation for the environment. Garis’s storytelling captures the innocence of childhood, making this an ideal read for young children and parents alike. It also highlights the importance of spending quality time with family and appreciating the natural world."
+    },
+    "45": {
+        "title": "The Tale of Ginger and Pickles",
+        "author_name": "Beatrix Potter",
+        "summary": "‘The Tale of Ginger and Pickles’ by Beatrix Potter is a charming children’s book about two animal friends, Ginger the cat and Pickles the dog, who run a shop together in a small village. They face challenges as their business grows and learn important lessons about fairness, generosity, and business ethics.",
+        "summary_extended": "The story is filled with delightful illustrations and whimsical humor, typical of Potter’s work. Ginger and Pickles, despite their good intentions, run into trouble when their customers take advantage of their kindness. The book imparts valuable life lessons for young readers, teaching them about the consequences of being too lenient and the importance of running a fair and responsible business. The tale is both entertaining and educational, making it a timeless favorite for children."
+    },
+    "46": {
+        "title": "The Meadow-Brook Girls Under Canvas; Or, Fun and Frolic in the Summer Camp",
+        "author_name": "Janet Aldridge",
+        "summary": "‘The Meadow-Brook Girls Under Canvas’ by Janet Aldridge is a fun-filled adventure story about a group of young girls who go to a summer camp. Together, they experience a variety of activities, make new friendships, and overcome challenges in the great outdoors.",
+        "summary_extended": "The book captures the excitement of camp life, as the Meadow-Brook girls engage in traditional camp activities such as hiking, swimming, and teamwork challenges. As the story unfolds, the girls learn important lessons about cooperation, friendship, and self-reliance. Aldridge’s writing is engaging, with a focus on the positive aspects of outdoor adventures, making it a perfect summer read for young girls. The book highlights the joys of nature and the sense of community that can form when working together toward a common goal."
+    },
+    "47": {
+        "title": "The Wings of the Morning",
+        "author_name": "Louis Tracy",
+        "summary": "‘The Wings of the Morning’ by Louis Tracy is a historical romance novel set in the early 20th century. The story follows the journey of a young woman named Valda, who becomes entangled in a series of romantic and political intrigues while traveling across Europe.",
+        "summary_extended": "The novel weaves together themes of love, betrayal, and adventure, with Valda caught in a whirlwind of personal and political conflicts. As she navigates the dangers and passions of the time, she must make difficult choices about loyalty, love, and the pursuit of her own happiness. Tracy’s writing brings the tumultuous era to life, with rich historical details and a compelling storyline that keeps readers hooked from beginning to end. The book offers both romance and suspense, set against the backdrop of a changing Europe."
+    },
+    "48": {
+        "title": "The Cid",
+        "author_name": "Pierre Corneille",
+        "summary": "‘The Cid’ is a classic French tragedy written by Pierre Corneille. The play tells the story of Rodrigue, a young Spanish nobleman who must choose between his love for Chimène and his duty to his father, leading to a conflict between personal desire and honor.",
+        "summary_extended": "The play explores themes of loyalty, honor, and the consequences of conflicting duties. Rodrigue’s internal struggle reflects the broader human dilemma of choosing between love and responsibility, as well as the tension between personal happiness and public duty. Corneille’s writing is filled with dramatic intensity and eloquent dialogue, making ‘The Cid’ a profound exploration of the complexities of human nature and social expectations. The work is a staple in classical French literature, praised for its deep moral questions and its timeless appeal."
+    },
+    "49": {
+        "title": "Cape Cod and All the Pilgrim Land, June 1922, Volume 6, Number 4 / A Monthly Magazine Devoted to the Interests of Southeastern Massachusetts",
+        "author_name": "Various",
+        "summary": "‘Cape Cod and All the Pilgrim Land’ is a periodical magazine from June 1922 that focuses on the history, culture, and attractions of Cape Cod and the Pilgrim Land in Massachusetts. It offers insights into the region’s historical significance, its natural beauty, and the lives of its inhabitants.",
+        "summary_extended": "The magazine provides a snapshot of life in southeastern Massachusetts during the early 20th century, with articles and photographs that explore the area’s rich history, from the arrival of the Pilgrims to the modern day. Readers are given a glimpse into the region’s evolving identity, including its role in American history and its importance as a tourist destination. The magazine also covers local news, cultural events, and features on notable personalities, offering a unique perspective on the area’s ongoing development."
+    },
+    "50": {
+        "title": "The Life of Reason: The Phases of Human Progress",
+        "author_name": "George Santayana",
+        "summary": "‘The Life of Reason: The Phases of Human Progress’ by George Santayana is a philosophical work that explores the development of human thought, culture, and society. Santayana examines the role of reason in shaping civilization and the ways in which human beings have sought meaning and understanding throughout history.",
+        "summary_extended": "The book is divided into multiple volumes, each dedicated to a different aspect of human progress, including ethics, art, and philosophy. Santayana’s writing is thoughtful and insightful, reflecting his belief in the importance of reason in guiding human action and development. He discusses the evolution of human thought from primitive belief systems to more complex systems of knowledge and understanding. This work is a deep exploration of the role of reason in both individual and societal growth, with Santayana offering reflections on how humans can continue to evolve intellectually and morally."
+},
+    "51": {
+        "title": "Campfire Girls in the Allegheny Mountains; or, A Christmas Success against Odds",
+        "author_name": "Stella M. Francis",
+        "summary": "‘Campfire Girls in the Allegheny Mountains’ by Stella M. Francis is an adventurous story of a group of girls who, during their Christmas vacation, face a series of challenges while camping in the Allegheny Mountains. Through teamwork, courage, and determination, they overcome obstacles and create lasting memories.",
+        "summary_extended": "The story showcases the power of friendship and the importance of persistence. As the girls work together to face natural hazards and unexpected events, they learn valuable life lessons in leadership and resilience. The holiday setting adds warmth and charm to the narrative, making it an ideal read for readers who enjoy outdoor adventures and stories of triumph in the face of adversity."
+    },
+    "52": {
+        "title": "The Girl from Montana",
+        "author_name": "Grace Livingston Hill",
+        "summary": "‘The Girl from Montana’ by Grace Livingston Hill is a heartwarming romance novel that follows the story of a young woman, who moves to Montana to start a new life. Amid the vast landscapes of the American West, she finds love, personal growth, and her place in the world.",
+        "summary_extended": "The book explores themes of love, faith, and perseverance, with the heroine overcoming personal hardships while navigating new relationships. Hill’s story emphasizes the values of kindness, family, and community. Set against the backdrop of the picturesque Montana countryside, it combines elements of romance, drama, and personal transformation, making it a timeless read for fans of classic romance novels."
+    },
+    "53": {
+        "title": "Lulu, Alice and Jimmie Wibblewobble",
+        "author_name": "Howard Roger Garis",
+        "summary": "‘Lulu, Alice and Jimmie Wibblewobble’ by Howard Roger Garis is a delightful children’s story about three quirky animal characters, Lulu, Alice, and Jimmie Wibblewobble, who embark on amusing adventures that teach valuable lessons about friendship and kindness.",
+        "summary_extended": "The book is filled with playful language and charming illustrations that appeal to young readers. Each character has unique traits and personalities, making them relatable and fun. Through their adventures, the characters learn about cooperation, empathy, and the importance of helping others. It’s a lighthearted and enjoyable read for children, perfect for bedtime stories or early reading."
+    },
+    "54": {
+        "title": "The Magic Speech Flower; or, Little Luke and His Animal Friends",
+        "author_name": "Melvin Hix",
+        "summary": "‘The Magic Speech Flower’ by Melvin Hix is a fantasy tale about a young boy named Little Luke who discovers a magical flower that allows him to communicate with animals. The story follows Luke’s adventures as he befriends various creatures and helps them solve their problems.",
+        "summary_extended": "This enchanting story encourages creativity and empathy, as Little Luke learns to understand the needs of the animals he meets. The magic flower becomes a tool for bridging the gap between humans and animals, offering important lessons on kindness, communication, and the value of understanding different perspectives. The whimsical narrative, combined with Hix’s playful writing style, makes it a delightful read for young readers and animal lovers alike."
+    },
+    "55": {
+        "title": "The City and the World and Other Stories",
+        "author_name": "Francis Clement Kelley",
+        "summary": "‘The City and the World and Other Stories’ by Francis Clement Kelley is a collection of short stories that explore the complexities of human life in both urban and rural settings. The stories focus on human nature, morality, and the contrast between city living and the peaceful countryside.",
+        "summary_extended": "Through Kelley's keen observation and storytelling, each tale delves into the characters' struggles and triumphs as they navigate life’s challenges. From city streets to the quiet of rural landscapes, the stories capture a wide range of emotions and experiences. The collection invites readers to reflect on the differences between the world’s bustling cities and the serenity of nature, offering insightful commentary on the human condition."
+    },
+    "56": {
+        "title": "What Two Children Did",
+        "author_name": "Charlotte E. Chittenden",
+        "summary": "‘What Two Children Did’ by Charlotte E. Chittenden is a charming children’s story about two siblings who embark on an adventure to help others in their community. Through their acts of kindness and determination, they learn important lessons about responsibility and the joy of giving.",
+        "summary_extended": "The story highlights the power of compassion and teamwork as the two children work together to make a positive impact on those around them. Their journey fosters personal growth and strengthens their bond, teaching young readers the value of empathy, generosity, and selflessness. With its heartwarming narrative and engaging characters, the book is ideal for teaching young children the importance of helping others."
+    },
+    "57": {
+        "title": "Stories from Le Morte D'Arthur and the Mabinogion",
+        "author_name": "Beatrice E. Clay",
+        "summary": "‘Stories from Le Morte D'Arthur and the Mabinogion’ by Beatrice E. Clay brings together some of the most famous legends from Arthurian lore and Welsh mythology. The collection features tales of King Arthur, his knights, and the mystical adventures they encounter.",
+        "summary_extended": "This compilation provides an accessible introduction to these iconic stories, including the adventures of Sir Lancelot, the quest for the Holy Grail, and the tragic love story of Tristan and Isolde. Clay’s retellings maintain the magic and drama of the original tales, while simplifying the language to make them suitable for younger readers. It’s a fantastic way to introduce children to the world of Arthurian legends and the rich mythology of the British Isles."
+    },
+    "58": {
+        "title": "The Lookout Man",
+        "author_name": "B. M. Bower",
+        "summary": "‘The Lookout Man’ by B. M. Bower is a Western novel that follows the story of a young man named Hal, who becomes a lookout man for a group of ranchers. As he faces dangers in the wilderness, he learns about bravery, loyalty, and friendship.",
+        "summary_extended": "The book explores themes of responsibility and the challenges of frontier life, as Hal is forced to confront difficult decisions that test his courage and character. Bower’s vivid descriptions of the Western landscape and the hardships of ranch life immerse readers in the era, while the relationships between the characters provide emotional depth to the story. The tale of perseverance and personal growth makes this an engaging read for fans of Western fiction."
+    },
+    "59": {
+        "title": "The Great Round World and What Is Going On In It, Vol. 1, No. 31, June 10, 1897 / A Weekly Magazine for Boys and Girls",
+        "author_name": "Various",
+        "summary": "‘The Great Round World and What Is Going On In It’ is a weekly magazine designed for young readers, offering news, stories, and articles on a wide range of topics. This particular issue from June 1897 includes features on global events, technological advancements, and entertaining stories.",
+        "summary_extended": "The magazine provides a snapshot of the world at the time, introducing young readers to current events and scientific discoveries. Through a mix of informative articles and fun stories, it aimed to educate and entertain children, fostering a greater understanding of the world around them. The publication reflects the curiosity of the late 19th century, with a focus on exploration, progress, and cultural awareness."
+    },
+    "60": {
+        "title": "The Great Round World and What Is Going On In It, Vol. 1, No. 32, June 17, 1897 / A Weekly Magazine for Boys and Girls",
+        "author_name": "Various",
+        "summary": "The June 17, 1897 issue of ‘The Great Round World and What Is Going On In It’ continues the magazine’s focus on educating young readers about the world around them. It covers various topics, from global events to technological innovations, presented in an engaging and accessible manner.",
+        "summary_extended": "This issue includes updates on current events, stories about explorers, and informative articles on topics like science and history. The magazine’s format blends entertainment with education, making it a valuable resource for young readers interested in learning about the world in an engaging way. The issue reflects the spirit of curiosity and discovery that characterized the era, offering insights into the rapidly changing world of the late 19th century."
+    },
+    "61": {
+        "title": "Dorothy Dale's Queer Holidays",
+        "author_name": "Margaret Penrose",
+        "summary": "‘Dorothy Dale's Queer Holidays’ by Margaret Penrose is a children’s novel that follows Dorothy and her friends as they experience a series of exciting and unusual adventures during their holiday break. Each holiday brings new surprises and challenges, strengthening their friendships and teaching valuable lessons.",
+        "summary_extended": "The book captures the essence of childhood wonder, with Dorothy navigating the twists and turns of her holiday adventures. Along the way, she encounters peculiar situations that push her to think creatively and work with her friends to solve problems. The story highlights themes of teamwork, problem-solving, and the joys of exploration. Penrose’s engaging writing and relatable characters make it a delightful read for children, perfect for the holiday season."
+},
+    "62": {
+        "title": "Ishmael; Or, In the Depths",
+        "author_name": "Emma Dorothy Eliza Nevitte Southworth",
+        "summary": "‘Ishmael; Or, In the Depths’ by Emma Dorothy Eliza Nevitte Southworth is a gripping tale of a young man named Ishmael who is caught in a complex web of family secrets, betrayal, and redemption. As he navigates his difficult circumstances, he faces moral dilemmas that shape his path toward personal growth and understanding.",
+        "summary_extended": "The novel explores deep themes of identity, honor, and fate, as Ishmael contends with challenges that force him to choose between his own desires and the welfare of others. Southworth’s work provides a psychological and emotional exploration of its protagonist’s journey, leading readers through a series of dramatic twists. The story’s intricate plot and richly developed characters ensure that readers remain engaged as they follow Ishmael’s search for truth and self-realization."
+    },
+    "63": {
+        "title": "The Great Round World and What Is Going On In It, Vol. 1, No. 36, July 15, 1897 / A Weekly Magazine for Boys and Girls",
+        "author_name": "Various",
+        "summary": "In this issue of ‘The Great Round World and What Is Going On In It,’ the publication continues its mission of informing and educating young readers. With articles on current events, scientific advancements, and global explorations, this magazine offers a mix of news and fun stories designed for children.",
+        "summary_extended": "The July 15, 1897 issue features a wide range of topics, from the latest technological inventions to the fascinating stories of explorers and adventurers. Through its combination of articles and short stories, the magazine aims to broaden the knowledge of young readers about the world around them, encouraging curiosity and learning. This issue reflects the growing interest in science, discovery, and global affairs during the late 19th century, offering a glimpse into the era’s fascination with progress and exploration."
+    },
+    "64": {
+        "title": "Mother Stories",
+        "author_name": "Maud Lindsay",
+        "summary": "‘Mother Stories’ by Maud Lindsay is a collection of gentle, heartwarming stories for young children, designed to teach important moral lessons. Each tale emphasizes virtues like kindness, honesty, and generosity, making it an ideal read for bedtime or early childhood education.",
+        "summary_extended": "Lindsay’s stories are simple yet engaging, capturing the essence of childhood innocence and curiosity. Through relatable characters and delightful narratives, the book encourages young readers to embrace virtues that will help them grow into compassionate individuals. The stories are easy to understand, making them perfect for parents to read aloud to their children or for children to read on their own as they begin to develop their reading skills."
+    },
+    "65": {
+        "title": "The Wonder Book of Bible Stories",
+        "author_name": "Unknown",
+        "summary": "‘The Wonder Book of Bible Stories’ is a collection of retellings of key Biblical stories, aimed at introducing young readers to the moral teachings and narratives of the Bible. The book is presented in a way that is accessible and engaging for children, making it a great introduction to Christian teachings.",
+        "summary_extended": "The book covers a wide range of Bible stories, from the creation of the world to the adventures of Noah and Moses, and ultimately to the teachings of Jesus. Through vivid illustrations and clear, simple language, the stories come alive for children, offering them both spiritual lessons and moral guidance. This book serves as an educational resource, providing a foundation for young readers to understand the core messages of Christianity while enjoying timeless stories."
+    },
+    "66": {
+        "title": "A Soldier's Sketches Under Fire",
+        "author_name": "Harold Harvey",
+        "summary": "‘A Soldier’s Sketches Under Fire’ by Harold Harvey is a collection of personal accounts and observations written by a soldier during wartime. The book paints a vivid picture of the soldier’s experiences and emotions while navigating the chaos and horrors of battle.",
+        "summary_extended": "Through a series of sketches, Harvey captures the intensity of combat and the profound effects of war on those involved. The book emphasizes the personal sacrifices made by soldiers and explores themes of bravery, fear, and camaraderie. Written from a first-hand perspective, the stories provide a raw and unflinching look at the realities of warfare, highlighting both the heroism and the psychological toll it takes on those who serve."
+    },
+    "67": {
+        "title": "Jack Rustig",
+        "author_name": "Frederick Marryat",
+        "summary": "‘Jack Rustig’ by Frederick Marryat is an adventurous tale of a young man, Jack, who sets out on a voyage that leads him into dangerous waters. Along the way, he faces numerous challenges and moral dilemmas, all while growing into a man of honor and courage.",
+        "summary_extended": "The novel is a classic maritime adventure, filled with thrilling exploits on the high seas. Jack’s journey tests his resolve and character, as he is forced to make difficult decisions that reflect his inner values. Marryat’s writing captures the essence of life at sea, with detailed descriptions of ship life and naval warfare. The story not only provides excitement but also explores themes of integrity and the transformation that comes with facing adversity."
+    },
+    "68": {
+        "title": "Then Marched the Brave",
+        "author_name": "Harriet T. Comstock",
+        "summary": "‘Then Marched the Brave’ by Harriet T. Comstock is a historical novel set during the American Civil War. It follows the journey of a young soldier as he grapples with the horrors of war and the personal sacrifices it demands.",
+        "summary_extended": "Through the eyes of its protagonist, the novel offers a poignant exploration of the emotional and physical toll of war. The soldier’s courage and moral strength are tested as he faces battlefields, loss, and moments of doubt. The book paints a vivid picture of the Civil War era, while also focusing on the individual stories of soldiers and their determination to persevere. Comstock’s narrative explores themes of bravery, duty, and the impact of war on the human spirit."
+    },
+    "69": {
+        "title": "Tristan and Isolda: Opera in Three Acts",
+        "author_name": "Richard Wagner",
+        "summary": "‘Tristan and Isolda’ by Richard Wagner is an opera based on the tragic love story of Tristan, a knight, and Isolda, an Irish princess. Their love defies the social norms and familial obligations, leading to devastating consequences.",
+        "summary_extended": "The opera is a masterpiece of romantic tragedy, exploring themes of love, betrayal, and fate. The intense emotions and profound psychological depth of the characters are brought to life through Wagner’s powerful music. As Tristan and Isolda struggle with their passion for each other and the pressures of the world around them, their story unfolds in a series of dramatic and heart-wrenching events. The opera’s blend of mythology, romance, and psychological exploration makes it one of Wagner’s most influential works."
+    },
+    "70": {
+        "title": "Outdoor Sports and Games",
+        "author_name": "Claude Harris Miller",
+        "summary": "‘Outdoor Sports and Games’ by Claude Harris Miller is a guidebook that covers a wide range of outdoor activities and games, from traditional sports to new, innovative games suitable for all ages. It is designed to encourage physical activity and promote the benefits of outdoor recreation.",
+        "summary_extended": "The book provides detailed instructions on how to play a variety of sports and games, offering both rules and strategies to enhance enjoyment and participation. Miller emphasizes the importance of teamwork, sportsmanship, and physical fitness while encouraging readers to embrace the joys of outdoor play. With its practical advice and diverse selection of activities, the book serves as an excellent resource for families, schools, and communities looking to foster a healthy, active lifestyle."
+    },
+    "71": {
+        "title": "The Enchanted April",
+        "author_name": "Elizabeth Von Arnim",
+        "summary": "‘The Enchanted April’ by Elizabeth Von Arnim is a delightful and introspective novel about four women who escape their mundane lives in England for a month-long stay in an Italian villa. Through their journey, they find not only rejuvenation but also personal growth.",
+        "summary_extended": "The book is a celebration of the power of nature, travel, and the company of kindred spirits. As the women spend time together in the picturesque Italian countryside, they form lasting friendships and learn to embrace new perspectives on life. The novel is both a lighthearted comedy and a thoughtful exploration of self-discovery, highlighting the transformative effects of a change of scenery and the freedom that comes with taking time for oneself."
+    },
+    "72": {
+        "title": "Little Prudy's Dotty Dimple",
+        "author_name": "Sophie May",
+        "summary": "‘Little Prudy’s Dotty Dimple’ by Sophie May is a charming children’s story about a sweet and curious girl named Little Prudy, whose adventures are filled with mischief and innocent fun. She forms a close bond with her little sister Dotty Dimple, and together they explore the world around them.",
+        "summary_extended": "The story is filled with playful humor and gentle lessons on kindness, imagination, and the joy of childhood. As Little Prudy learns and grows through her experiences, she teaches readers the value of being thoughtful and compassionate. The book captures the spirit of childhood and offers a heartwarming portrayal of family relationships, making it a delightful read for young children."
+},
+    "73": {
+        "title": "Quincy Adams Sawyer and Mason's Corner Folks / A Picture of New England Home Life",
+        "author_name": "Charles Felton Pidgin",
+        "summary": "‘Quincy Adams Sawyer and Mason's Corner Folks’ is a novel by Charles Felton Pidgin that offers a portrait of life in a small New England town. The story revolves around the young Quincy Adams Sawyer and his interactions with the people of Mason's Corner, offering a vivid depiction of the characters and community dynamics of the time.",
+        "summary_extended": "Pidgin’s work focuses on the themes of rural life, community, and the complexities of human nature. Through the eyes of young Quincy, readers are introduced to various characters and their personal stories, highlighting the values, struggles, and relationships within a tight-knit town. The novel is both a heartwarming and insightful exploration of New England life in the late 19th century."
+    },
+    "74": {
+        "title": "The Olden Time Series, Vol. 5: Some Strange and Curious Punishments / Gleanings Chiefly from Old Newspapers of Boston and Salem, Massachusetts",
+        "author_name": "Henry M. Brooks",
+        "summary": "‘The Olden Time Series, Vol. 5: Some Strange and Curious Punishments’ is another volume by Henry M. Brooks, focusing on bizarre and unusual forms of punishment in colonial and early American history. Drawing from old Boston and Salem newspapers, Brooks details the odd and sometimes harsh methods of discipline used in the past.",
+        "summary_extended": "Brooks's exploration of punishment practices offers a glimpse into the darker, more peculiar aspects of early American society. The book presents historical anecdotes and true stories about punishments that reflect the moral, legal, and social norms of the time. Through these strange tales, Brooks gives readers a view of how the past shaped modern justice and society."
+    },
+    "75": {
+        "title": "Your Boys",
+        "author_name": "Gipsy Smith",
+        "summary": "‘Your Boys’ by Gipsy Smith is a motivational and spiritual book that addresses the issues young people face and offers advice on how to guide them toward good behavior and moral choices. Smith focuses on the importance of positive role models and the nurturing of virtue in young people.",
+        "summary_extended": "In this book, Smith combines personal anecdotes, religious teachings, and practical advice to inspire both parents and educators in their efforts to help guide the younger generation. The author’s goal is to instill a sense of responsibility, faith, and integrity in boys, emphasizing the potential for goodness in youth when they are given proper guidance and care."
+    },
+    "76": {
+        "title": "Biltmore Oswald",
+        "author_name": "Thorne Smith",
+        "summary": "‘Biltmore Oswald’ by Thorne Smith is a comedic novel centered around the adventures of Oswald, a charming and eccentric character who finds himself in a series of amusing situations. The story is a satire of high society and the absurdities of modern life.",
+        "summary_extended": "Smith’s work is filled with humor, wit, and a touch of absurdity, as Oswald’s antics expose the vanity and folly of the upper classes. The book is a lighthearted, yet insightful, commentary on social norms and human behavior. Through Oswald’s quirky adventures, Smith invites readers to laugh at the eccentricities of society while also reflecting on the complexities of human nature."
+    },
+    "77": {
+        "title": "Pinocchio: The Tale of a Puppet",
+        "author_name": "Carlo Collodi",
+        "summary": "‘Pinocchio: The Tale of a Puppet’ by Carlo Collodi is the beloved story of a wooden puppet named Pinocchio who dreams of becoming a real boy. The novel follows Pinocchio’s journey as he learns valuable life lessons and faces various challenges that teach him about honesty, responsibility, and selflessness.",
+        "summary_extended": "The story of Pinocchio is filled with whimsical characters and moral lessons. From his misadventures with dishonest friends to his encounters with magical creatures, Pinocchio’s journey is a classic tale of growth and redemption. Collodi’s story is a timeless fairy tale that continues to resonate with readers, emphasizing the importance of integrity and the consequences of poor choices."
+    },
+    "78": {
+        "title": "The Great Red Frog",
+        "author_name": "Sidney Ransom",
+        "summary": "‘The Great Red Frog’ by Sidney Ransom is a mystery and adventure novel that follows a group of characters as they seek to uncover the secrets surrounding a mysterious and rare creature known as the Great Red Frog. The story is filled with suspense and intrigue as the characters embark on an exciting quest.",
+        "summary_extended": "The novel is set in a remote, exotic location, where the search for the Great Red Frog brings out the best and worst in the characters involved. With elements of danger, mystery, and discovery, Ransom weaves a captivating tale that keeps readers on the edge of their seats. The book explores themes of obsession, greed, and the lengths people will go to in order to possess something rare and valuable."
+    },
+    "79": {
+        "title": "Bunny Brown and His Sister Sue Playing Circus",
+        "author_name": "Laura Lee Hope",
+        "summary": "‘Bunny Brown and His Sister Sue Playing Circus’ by Laura Lee Hope is a children’s novel that follows the adventures of Bunny Brown and his younger sister Sue. In this installment, the siblings create their own circus and engage in a variety of fun and entertaining activities.",
+        "summary_extended": "The story is filled with playful antics and lighthearted humor as Bunny and Sue use their creativity and imagination to put on a show. Along the way, they learn lessons about teamwork, perseverance, and the joy of making others happy. The book is a charming tale for young readers, offering a wholesome portrayal of sibling relationships and childhood imagination."
+    },
+    "80": {
+        "title": "Food and Health",
+        "author_name": "Lydia E. Pinkham Medicine Company",
+        "summary": "‘Food and Health’ by Lydia E. Pinkham Medicine Company is a guide to maintaining good health through proper nutrition and lifestyle choices. The book is written in the context of early 20th-century health advice and focuses on the connection between diet and well-being.",
+        "summary_extended": "The book provides insights into the importance of healthy eating, as well as tips for improving digestion, energy levels, and overall health. Pinkham’s approach emphasizes natural remedies and a balanced diet to support long-term wellness. The work reflects the medical understanding of its time and offers advice that was considered progressive and informative for readers seeking a healthier lifestyle."
+    },
+    "81": {
+        "title": "The Rocket Book",
+        "author_name": "Peter Newell",
+        "summary": "‘The Rocket Book’ by Peter Newell is a whimsical and creative children’s book that combines imaginative storytelling with visual art. The story follows a rocket as it embarks on a fantastical journey through space, encountering various characters and obstacles along the way.",
+        "summary_extended": "Newell’s playful illustrations and engaging narrative bring to life the adventure of a rocket traveling through the skies. The book is an excellent example of early 20th-century children’s literature, using humor and fantasy to captivate young readers. The story encourages imagination and curiosity, with a delightful mix of adventure and humor that appeals to readers of all ages."
+    },
+
+    "82": {
+        "title": "Through Palestine with the Twentieth Machine Gun Squadron",
+        "author_name": "Unknown",
+        "summary": "‘Through Palestine with the Twentieth Machine Gun Squadron’ is an account of the experiences of a military unit during World War I in the Middle East. It details the squadron’s operations, the challenges they faced, and the landscapes they traversed during their time in Palestine.",
+        "summary_extended": "The narrative offers a firsthand look at the conditions faced by soldiers in a region far removed from the Western Front. The story highlights the strategic importance of the Middle East during the war and showcases the resilience and bravery of the squadron members. Through vivid descriptions of the land and the difficulties of warfare in such an environment, the book provides a valuable historical perspective on the Great War’s Middle Eastern campaign."
+    },
+    "83": {
+        "title": "Rosa's Quest / Or, The Way to the Beautiful Land",
+        "author_name": "Anna Potter Wright",
+        "summary": "‘Rosa’s Quest / Or, The Way to the Beautiful Land’ by Anna Potter Wright is a novel about a young girl named Rosa who embarks on a journey of self-discovery and growth. Her quest takes her through numerous challenges, both physical and emotional, as she seeks a place of beauty and peace.",
+        "summary_extended": "The story is filled with themes of perseverance, hope, and the search for inner peace. Rosa’s journey is not only a physical one, but also a spiritual and emotional quest. As she encounters various characters and experiences, she learns important lessons about life and the world around her. Wright’s writing is tender and reflective, making the novel an inspiring tale of resilience and the pursuit of happiness."
+    },
+    "84": {
+        "title": "Frank among the Rancheros",
+        "author_name": "Harry Castlemon",
+        "summary": "‘Frank among the Rancheros’ by Harry Castlemon is an adventure novel set in the American West. It follows Frank, a young man who finds himself in the midst of the rough and wild world of ranch life, encountering various challenges and adventures along the way.",
+        "summary_extended": "Frank’s story is one of bravery, resourcefulness, and friendship as he navigates the dangers of the frontier. The novel explores themes of loyalty, honor, and the ruggedness of the Western lifestyle. Castlemon’s work is rich in the spirit of adventure, capturing the essence of life in the American West and showcasing the determination required to succeed in such a demanding environment."
+    },
+    "85": {
+        "title": "The Secret Garden",
+        "author_name": "Frances Hodgson Burnett",
+        "summary": "‘The Secret Garden’ by Frances Hodgson Burnett is a beloved children’s novel about Mary Lennox, a spoiled and lonely girl who discovers a hidden garden at her uncle’s estate. As she nurtures the garden, she also learns to nurture herself and the relationships around her.",
+        "summary_extended": "The story is a heartwarming tale of transformation, both physical and emotional. Mary’s journey from a solitary, ill-tempered child to a compassionate and joyful young girl mirrors the renewal of the garden she tends. The novel emphasizes themes of growth, healing, and the power of nature, and its positive messages about kindness and perseverance continue to resonate with readers of all ages."
+    },
+    "86": {
+        "title": "The Mintage: Being Ten Stories & One More",
+        "author_name": "Elbert Hubbard",
+        "summary": "‘The Mintage: Being Ten Stories & One More’ by Elbert Hubbard is a collection of short stories that reflect Hubbard’s philosophical and reflective approach to life. Each story is crafted to inspire thought and offer insight into the human experience.",
+        "summary_extended": "Hubbard’s writing focuses on themes of individualism, creativity, and the pursuit of happiness. The stories are diverse in subject matter, but they all share a common thread of encouraging readers to think critically about their lives and the world around them. Hubbard’s trademark wit and wisdom come through in each tale, making this collection both entertaining and thought-provoking."
+    },
+    "87": {
+        "title": "Certain Personal Matters",
+        "author_name": "H. G. Wells",
+        "summary": "‘Certain Personal Matters’ by H. G. Wells is a semi-autobiographical work that explores the author’s own experiences and reflections on various aspects of his life. The book delves into themes of identity, relationships, and the passage of time.",
+        "summary_extended": "Wells offers a candid look at his own personal thoughts, providing readers with a deeper understanding of the man behind his science fiction masterpieces. The book touches on intimate aspects of Wells’s life, offering philosophical musings on love, society, and personal fulfillment. Through his introspective writing, he examines the ways in which individual experiences shape our worldview."
+    },
+    "88": {
+        "title": "The Jester of St. Timothy's",
+        "author_name": "Arthur Stanwood Pier",
+        "summary": "‘The Jester of St. Timothy’s’ by Arthur Stanwood Pier is a coming-of-age story set in an American prep school. The protagonist, a young student, navigates the complexities of school life, friendships, and personal growth while also confronting societal expectations.",
+        "summary_extended": "The novel offers a vivid portrayal of life at a prestigious boarding school, highlighting the trials and triumphs of adolescence. As the protagonist grows and matures, he learns valuable lessons about loyalty, honor, and self-identity. Pier’s writing captures the essence of youth and the challenges that come with finding one’s place in the world, making it an engaging and reflective read for readers interested in the dynamics of youth and education."
+    },
+    "89": {
+        "title": "English Embroidered Bookbindings",
+        "author_name": "Cyril Davenport",
+        "summary": "‘English Embroidered Bookbindings’ by Cyril Davenport is an in-depth exploration of the history and art of embroidered bookbindings in England. The book examines the intricate designs and craftsmanship of book covers that were often made by hand.",
+        "summary_extended": "Davenport’s work focuses on the artistic and historical significance of these decorative bindings, providing detailed descriptions and illustrations of various styles. The book not only serves as a valuable resource for collectors and historians, but also offers insight into the cultural importance of bookbinding as an art form. Through a detailed examination of embroidery and design, Davenport highlights the skill and creativity involved in these unique pieces."
+    },
+    "90": {
+        "title": "Bella Donna: A Novel",
+        "author_name": "Robert Hichens",
+        "summary": "‘Bella Donna’ by Robert Hichens is a psychological novel centered around a beautiful and manipulative woman named Bella Donna. The story explores themes of love, desire, and deception as it delves into the complexities of Bella’s relationships and her impact on those around her.",
+        "summary_extended": "The novel paints a vivid picture of Bella’s charm and the dark allure she exudes, capturing the emotional tension and moral dilemmas faced by the men who fall under her spell. Hichens’s writing is both dramatic and introspective, offering a compelling look at the destructive power of attraction and the consequences of selfishness. As Bella’s story unfolds, readers are drawn into a web of passion and betrayal that ultimately reveals the fragility of human relationships."
+    },
+    "91": {
+        "title": "The Mystery of the Hasty Arrow",
+        "author_name": "Anna Katharine Green",
+        "summary": "‘The Mystery of the Hasty Arrow’ by Anna Katharine Green is a detective novel in which the protagonist, an experienced investigator, must solve a complex case involving a mysterious shooting. The case is full of twists and turns, keeping readers guessing until the very end.",
+        "summary_extended": "Green’s work is filled with suspense and intrigue, as the investigator follows a trail of clues that leads him through various suspects and motivations. The story showcases Green’s talent for creating intricate plots and exploring the psychology of her characters. As the mystery unravels, readers are taken on a thrilling ride through deception, red herrings, and ultimately, the discovery of the truth."
+    },
+    "92": {
+        "title": "Grace Harlowe's Junior Year at High School / Or, Fast Friends in the Sororities",
+        "author_name": "Josephine Chase",
+        "summary": "‘Grace Harlowe’s Junior Year at High School’ by Josephine Chase is the third book in a series following the adventures of Grace Harlowe and her friends. This installment focuses on their experiences during their junior year in high school, particularly in relation to new friendships and the challenges of sorority life.",
+        "summary_extended": "The novel explores the dynamics of high school friendships, the importance of loyalty, and the personal growth that comes with facing social pressures. As Grace navigates the complexities of adolescence, she learns valuable lessons about self-confidence and the power of friendship. Chase’s writing provides a relatable portrayal of the ups and downs of high school life, with a focus on the joys and struggles of growing up."
+    },
+    "93": {
+        "title": "Ben Blair / The Story of a Plainsman",
+        "author_name": "Will Lillibridge",
+        "summary": "‘Ben Blair / The Story of a Plainsman’ by Will Lillibridge is a classic Western novel that follows the adventures of Ben Blair, a strong, independent man living on the American frontier. The story highlights Ben's struggles to navigate the harsh environment of the plains, while dealing with conflicts involving land, justice, and personal relationships.",
+        "summary_extended": "The novel portrays Ben Blair as a character of rugged individualism, embodying the spirit of the American West. Throughout the story, Ben faces physical and moral challenges, from defending his homestead to making difficult decisions about loyalty and honor. The book explores themes of justice, self-reliance, and the impact of the frontier on personal identity. Lillibridge's depiction of life on the plains is rich in detail, showcasing the hardships and beauty of this pivotal time in American history."
+    },
+    "94": {
+        "title": "The Olden Time Series, Vol. 1: Curiosities of the Old Lottery / Gleanings Chiefly from Old Newspapers of Boston and Salem, Massachusetts",
+        "author_name": "Henry M. Brooks",
+        "summary": "‘The Olden Time Series, Vol. 1: Curiosities of the Old Lottery’ by Henry M. Brooks is a historical exploration of early American lotteries and the oddities surrounding them, drawn from old newspapers in Boston and Salem. The book provides insight into the social, economic, and cultural aspects of lottery systems in colonial and early America.",
+        "summary_extended": "Brooks’s work delves into the public and legal views on lotteries, offering a fascinating look at how these games were perceived and their role in early American society. He also highlights the curious and often humorous stories related to these events, showcasing how such activities were intertwined with the culture and everyday lives of people in the 18th and 19th centuries."
+    },
+    "95": {
+        "title": "Tom Swift and The Visitor from Planet X",
+        "author_name": "Victor Appleton II",
+        "summary": "‘Tom Swift and The Visitor from Planet X’ is part of the popular 'Tom Swift' adventure series. In this installment, young inventor Tom Swift encounters a mysterious visitor from another planet, leading to a thrilling adventure filled with scientific wonders and technological marvels.",
+        "summary_extended": "As Tom and his friends work to uncover the secrets of the alien visitor, they face various challenges that test their intellect, bravery, and scientific knowledge. This fast-paced adventure brings together elements of space exploration, futuristic technology, and the classic charm of the Tom Swift series, appealing to readers who enjoy stories of innovation and discovery."
+    },
+    "96": {
+        "title": "The Luckiest Girl in the School",
+        "author_name": "Angela Brazil",
+        "summary": "‘The Luckiest Girl in the School’ by Angela Brazil is a coming-of-age novel centered around a young girl named Bessie, who feels like the luckiest student at her school. The story explores her experiences as she navigates friendships, academic challenges, and personal growth during her school years.",
+        "summary_extended": "Through Bessie’s story, Brazil touches on themes of self-discovery, the importance of perseverance, and the value of genuine friendships. The novel offers a wholesome portrayal of school life, with relatable experiences of jealousy, rivalry, and triumph. Bessie’s journey resonates with readers who appreciate heartwarming stories of growing up and finding one’s place in the world."
+    },
+    "97": {
+        "title": "Gentle Julia",
+        "author_name": "Booth Tarkington",
+        "summary": "‘Gentle Julia’ by Booth Tarkington is a charming novel that follows the life of a young woman named Julia, known for her kind and gentle nature. Set in early 20th-century America, the book explores Julia’s interactions with family, friends, and suitors as she navigates the complexities of adulthood.",
+        "summary_extended": "The novel is a heartfelt exploration of love, relationships, and personal growth. Julia’s character stands out for her compassion and sincerity, and the book delves into her internal struggles as she learns about the challenges and joys of life. Tarkington’s writing is gentle and reflective, capturing the emotional depth of his characters while presenting a sweet, nostalgic view of early 20th-century American life."
+    },
+    "98": {
+        "title": "Het Vrije Rusland / De Aarde en haar Volken, 1873",
+        "author_name": "William Hepworth Dixon",
+        "summary": "‘Het Vrije Rusland / De Aarde en haar Volken, 1873’ by William Hepworth Dixon is a travelogue that provides an in-depth look at Russia during the 19th century. Dixon offers observations on Russian society, politics, and culture, painting a vivid picture of the country at the time.",
+        "summary_extended": "Dixon’s work provides valuable historical context, especially for those interested in the social and political dynamics of Russia during the late 1800s. Through his travel experiences and encounters with local people, Dixon offers insights into the complexities of Russian life, from the aristocracy to the working class. His observations are detailed and rich in context, contributing to a deeper understanding of the era."
+    },
+    "99": {
+        "title": "De Lotgevallen van Tom Sawyer",
+        "author_name": "Mark Twain",
+        "summary": "‘De Lotgevallen van Tom Sawyer’ is the Dutch translation of Mark Twain’s classic novel ‘The Adventures of Tom Sawyer.’ It follows the mischievous adventures of Tom, a young boy living in a small town along the Mississippi River, as he gets into trouble, forms lasting friendships, and discovers the thrill of adventure.",
+        "summary_extended": "The novel’s timeless appeal lies in its depiction of youth and the universal themes of freedom, curiosity, and moral development. Tom’s journey through childhood is filled with unforgettable moments, from his clever tricks to his heroic acts. Twain’s sharp wit and keen observations of human nature come through in this lighthearted yet insightful coming-of-age tale that resonates with readers of all ages."
+    },
+    "100": {
+        "title": "The Place Beyond the Winds",
+        "author_name": "Harriet T. Comstock",
+        "summary": "‘The Place Beyond the Winds’ by Harriet T. Comstock is a novel of romance and adventure set in the American West. It tells the story of a young woman, her love interests, and the trials she faces as she navigates life on the frontier.",
+        "summary_extended": "Comstock’s novel combines the elements of western adventure with emotional depth, focusing on themes of love, identity, and the harsh realities of life in the West. The protagonist’s journey is filled with heartache, courage, and personal growth as she seeks her place in a rugged and unforgiving landscape. Through vivid descriptions and dynamic characters, the book captures the spirit of the West while exploring timeless human themes."
+    },
+    "101": {
+        "title": "A Court of Inquiry",
+        "author_name": "Grace S. Richmond",
+        "summary": "‘A Court of Inquiry’ by Grace S. Richmond is a legal drama that centers around a court case and the investigation that precedes it. The story delves into the intricacies of law, justice, and human motivations, focusing on the lives of those involved in the case.",
+        "summary_extended": "Richmond’s novel presents a compelling narrative filled with suspense, as the characters wrestle with their personal dilemmas and the ethical implications of the case at hand. The story explores the conflict between right and wrong, personal loyalty, and the pursuit of truth. Through courtroom drama and character-driven storytelling, the book offers a fascinating glimpse into the world of law and the moral challenges faced by its practitioners."
+    },
+    "102": {
+        "title": "Introduction to Non-Violence",
+        "author_name": "Theodore Paullin",
+        "summary": "‘Introduction to Non-Violence’ by Theodore Paullin is a philosophical and practical exploration of the principles and practice of non-violence. The book aims to provide readers with a deeper understanding of how non-violent action can be a powerful tool for social change and personal growth.",
+        "summary_extended": "Paullin discusses the various aspects of non-violence, including its ethical foundations, its application in different social movements, and its impact on individual behavior. The book encourages readers to adopt non-violent methods in conflict resolution, political activism, and everyday life. It emphasizes peace and compassion as guiding principles, arguing that non-violence can lead to more effective and sustainable progress in society."
+    },
+    "103": {
+        "title": "Adrift in New York: Tom and Florence Braving the World",
+        "author_name": "Horatio Alger Jr.",
+        "summary": "‘Adrift in New York: Tom and Florence Braving the World’ by Horatio Alger Jr. tells the story of two young individuals, Tom and Florence, who find themselves alone and struggling in the big city. As they navigate the challenges of New York, they rely on their resourcefulness and determination to survive and thrive.",
+        "summary_extended": "The book highlights themes of perseverance, hard work, and optimism, characteristic of Alger's novels. Tom and Florence face adversity in the form of poverty and social struggles but ultimately find success through integrity, bravery, and help from supportive characters. This uplifting tale exemplifies the American Dream and the belief that character and effort can overcome obstacles, no matter how insurmountable they may seem."
+    },
+    "104": {
+        "title": "The Tale of Major Monkey",
+        "author_name": "Arthur Scott Bailey",
+        "summary": "‘The Tale of Major Monkey’ by Arthur Scott Bailey is a charming children's story about Major Monkey, a mischievous character who loves adventure and fun. Through Major’s playful escapades, children learn about the importance of friendship, kindness, and taking responsibility for one's actions.",
+        "summary_extended": "In this story, Major Monkey’s adventures take him through various humorous and light-hearted situations, often involving other animals. The book uses anthropomorphized animals to teach important moral lessons, such as honesty and helping others. Bailey's writing style is engaging for young readers, and the colorful personalities of the animal characters make this a delightful and educational read for children."
+    },
+    "105": {
+        "title": "Abe and Mawruss: Being Further Adventures of Potash and Perlmutter",
+        "author_name": "Montague Glass",
+        "summary": "‘Abe and Mawruss: Being Further Adventures of Potash and Perlmutter’ by Montague Glass is a humorous novel featuring the continuing adventures of two Jewish business partners, Abe Potash and Mawruss Perlmutter. The story humorously depicts their life in the garment trade, navigating both business and personal challenges.",
+        "summary_extended": "Glass’s novel presents a satirical view of the business world and the idiosyncrasies of its characters. Abe and Mawruss are loveable, well-meaning, but often clueless characters who get themselves into funny situations. Their interactions and the events that unfold highlight themes of friendship, loyalty, and the immigrant experience in early 20th-century America. The book is both a light comedy and a commentary on the complexities of business and cultural assimilation."
+    },
+    "106": {
+        "title": "The Little Red Hen / An Old English Folk Tale",
+        "author_name": "Unknown",
+        "summary": "‘The Little Red Hen’ is a classic English folk tale about a hardworking hen who attempts to make bread but is met with reluctance from the other animals who refuse to help her. The tale teaches important lessons about work, cooperation, and responsibility.",
+        "summary_extended": "In the story, the Little Red Hen does all the work required to make the bread, from planting the wheat to baking it, while the other animals—such as the cat, the dog, and the pig—refuse to assist. When the bread is finished, the Hen decides to enjoy the fruits of her labor alone. The story teaches children the value of hard work and the consequences of laziness. Its moral lessons have made it a staple of children's literature."
+    },
+    "107": {
+        "title": "The Sky Is Falling",
+        "author_name": "Lester Del Rey",
+        "summary": "‘The Sky Is Falling’ by Lester Del Rey is a science fiction novel that takes place during a time of global crisis. The story follows a young protagonist, Jerry, who must navigate through dangerous situations caused by an alien invasion, while also dealing with societal breakdown and human survival instincts.",
+        "summary_extended": "The novel explores the theme of humanity's response to sudden and overwhelming threats, with Jerry's courage and intelligence being key to the survival of his group. The narrative weaves together suspense, action, and philosophical reflections on human nature, as well as the impact of extraterrestrial forces on Earth. Del Rey uses this story to comment on the fragility of society and the resilience of individuals in the face of catastrophe."
+    },
+    "108": {
+        "title": "Last Enemy",
+        "author_name": "H. Beam Piper",
+        "summary": "‘Last Enemy’ by H. Beam Piper is a science fiction novella that examines the concepts of immortality and its effects on society. The story is set in a future where humans have discovered a way to prevent death, leading to unexpected consequences in terms of social structure and human relationships.",
+        "summary_extended": "Piper’s work delves into the psychological and societal repercussions of immortality. The central conflict revolves around the emotional and moral dilemmas that arise when death no longer exists, and the characters must confront the implications of living forever. The story is a meditation on the nature of life, death, and the human desire for eternal existence, making it both a thought-provoking and entertaining read."
+    },
+    "109": {
+        "title": "Voodoo Planet",
+        "author_name": "Andre Norton",
+        "summary": "‘Voodoo Planet’ by Andre Norton is a science fiction novel set in a distant future where the protagonist, a space trader, becomes entangled in a series of adventures on a mysterious planet. The planet is home to strange, ancient traditions and a powerful voodoo-like religion that influences the events unfolding.",
+        "summary_extended": "The novel is a mix of adventure, science fiction, and fantasy, as the characters must navigate a world filled with danger and mystery. Norton’s storytelling explores themes of superstition, colonialism, and the clash of cultures as the protagonist uncovers the secrets of the planet and its inhabitants. With elements of space travel, alien encounters, and deep-rooted mysticism, ‘Voodoo Planet’ offers a thrilling narrative for fans of speculative fiction."
+    },
+    "110": {
+        "title": "Dick the Bank Boy; Or, A Missing Fortune",
+        "author_name": "Frank V. Webster",
+        "summary": "‘Dick the Bank Boy; Or, A Missing Fortune’ by Frank V. Webster is an adventure story centered around Dick, a young boy who works at a bank and finds himself caught up in a mystery involving a missing fortune. As he investigates, he discovers a complex web of secrets and intrigue.",
+        "summary_extended": "The novel follows Dick as he uses his wits and determination to uncover the truth behind the missing fortune. Along the way, he encounters various characters who either help or hinder his investigation. The book is filled with suspense, action, and moral lessons about honesty, loyalty, and perseverance. Webster’s storytelling engages readers with a combination of mystery, adventure, and the pursuit of justice."
+    },
+    "111": {
+        "title": "Susan Clegg and Her Neighbors' Affairs",
+        "author_name": "Anne Warner",
+        "summary": "‘Susan Clegg and Her Neighbors' Affairs’ by Anne Warner is a humorous and light-hearted story about Susan Clegg, a woman who finds herself deeply involved in the lives and troubles of her neighbors. Through her observations and witty commentary, Susan becomes a central figure in the small community where she lives.",
+        "summary_extended": "The book portrays Susan as a sharp-witted, nosy, but well-meaning character who frequently gets involved in the gossip and misadventures of her neighbors. The narrative weaves humor and insight into the complexities of small-town life, with Susan often finding herself caught in the middle of various social dramas. Through her interactions with others, the book explores themes of community, relationships, and the nature of human behavior, all presented with a comedic touch."
+    },
+    "112": {
+        "title": "Alice's Adventures in Wonderland",
+        "author_name": "Lewis Carroll",
+        "summary": "‘Alice's Adventures in Wonderland’ by Lewis Carroll is a fantastical tale of a young girl, Alice, who falls down a rabbit hole into a strange, nonsensical world. She encounters bizarre characters, such as the White Rabbit, the Cheshire Cat, and the Mad Hatter, as she navigates the whimsical landscape of Wonderland.",
+        "summary_extended": "The novel is a celebration of imagination and absurdity, with Alice constantly questioning the strange rules and logic of Wonderland. Throughout her adventures, she experiences a series of surreal events that challenge her perception of reality. Carroll's playful use of language, logic, and wit makes the story an enduring classic. At its core, the story is a journey of self-discovery, with Alice learning to navigate an unpredictable world while questioning authority and societal norms."
+    },
+    "113": {
+        "title": "Oscar the Detective; Or, Dudie Dunne, The Exquisite Detective",
+        "author_name": "Old Sleuth",
+        "summary": "‘Oscar the Detective; Or, Dudie Dunne, The Exquisite Detective’ is a detective novel by Old Sleuth. It follows the adventures of Dudie Dunne, a skilled but eccentric detective known for his sharp mind and unconventional methods of solving mysteries.",
+        "summary_extended": "The story follows Dudie as he is called to solve a case that seems impossible to crack. With his wit and ingenuity, Dudie navigates through a maze of clues and red herrings, uncovering the truth in surprising ways. His character is a mix of humor, intelligence, and charm, making him an appealing detective figure. The novel showcases the genre's early fascination with quirky detectives and the excitement of unraveling complex mysteries."
+    },
+    "114": {
+        "title": "In the Rocky Mountains: A Tale of Adventure",
+        "author_name": "William Henry Giles Kingston",
+        "summary": "‘In the Rocky Mountains: A Tale of Adventure’ by William Henry Giles Kingston is an adventure novel set in the rugged and untamed landscapes of the Rocky Mountains. The book follows a group of explorers as they face both natural and human-made challenges during their journey.",
+        "summary_extended": "The story combines action, danger, and heroism as the characters venture into the mountains in search of adventure, treasure, or new frontiers. The book provides vivid descriptions of the Rocky Mountain wilderness and explores the themes of perseverance, survival, and teamwork. Through the characters’ interactions with the land and each other, the novel highlights the challenges of the American wilderness during a time of exploration and expansion."
+    },
+    "115": {
+        "title": "The Mule-Bone",
+        "author_name": "Langston Hughes",
+        "summary": "‘The Mule-Bone’ by Langston Hughes is a play co-written with Zora Neale Hurston, set in the fictional African-American community of Eatonville, Florida. The story revolves around a dispute between two men, Jim and Dave, over a mule bone, which escalates into a comedic, larger cultural conflict.",
+        "summary_extended": "Through its humor and dialogue, the play critiques issues of race, community, and pride within the African-American experience. The characters' personalities and quirks provide a humorous but pointed commentary on the dynamics of small-town life and social expectations. The play combines elements of folk humor, dialect, and dramatic structure to convey a message about the absurdity of conflict and the complexities of relationships in a close-knit community."
+    },
+    "116": {
+        "title": "Badge of Infamy",
+        "author_name": "Lester Del Rey",
+        "summary": "‘Badge of Infamy’ by Lester Del Rey is a science fiction novel set in a post-apocalyptic future. The story follows a protagonist who must navigate a world where a deadly disease has wiped out much of the population and survivors must face new social and moral challenges.",
+        "summary_extended": "The novel delves into themes of survival, morality, and the rebuilding of society in the aftermath of catastrophe. The protagonist is faced with the moral dilemma of carrying a 'badge of infamy' for his past actions during the early days of the outbreak. Del Rey explores how humanity adapts to extreme circumstances, shedding light on both the resilience and the flaws of human nature. The book mixes action with philosophical reflections, making it a thought-provoking piece of speculative fiction."
+    },
+    "117": {
+        "title": "Alice in Wonderland, Retold in Words of One Syllable",
+        "author_name": "Lewis Carroll",
+        "summary": "‘Alice in Wonderland, Retold in Words of One Syllable’ is a simplified version of Lewis Carroll’s famous story, written with vocabulary restricted to one-syllable words. This retelling makes the classic tale more accessible to younger readers or those new to the story.",
+        "summary_extended": "The story follows Alice as she journeys through Wonderland, meeting peculiar characters and experiencing whimsical adventures. While the language is simplified, the essence of the original narrative remains intact, preserving the humor, imagination, and logic-defying scenarios that have made the book a classic. This version of Alice's story introduces the charm of Wonderland to readers in a more approachable way while maintaining the original's sense of fun and absurdity."
+    },
+    "118": {
+        "title": "The Arabian Nights Entertainments",
+        "author_name": "Anonymous",
+        "summary": "‘The Arabian Nights Entertainments’ is a collection of Middle Eastern folktales and stories, originally compiled in Arabic during the Islamic Golden Age. The tales include stories of adventure, magic, and romance, framed within the overarching story of Scheherazade, a woman who tells stories to her husband, King Shahryar, to delay her execution.",
+        "summary_extended": "The tales in this collection are some of the most well-known in world literature, including famous stories such as ‘Aladdin and the Magic Lamp,’ ‘Ali Baba and the Forty Thieves,’ and ‘Sinbad the Sailor.’ These stories are rich in cultural traditions, exploring themes of love, betrayal, morality, and the supernatural. The collection has been translated and adapted numerous times, continuing to inspire readers and storytellers worldwide. The tales also reflect the complexities of fate and fortune, as well as the power of storytelling itself."
+    },
+    "119": {
+        "title": "Naughty Miss Bunny / A Story for Little Children",
+        "author_name": "Clara Mulholland",
+        "summary": "‘Naughty Miss Bunny’ by Clara Mulholland is a charming children's story about a mischievous little bunny who learns the value of good behavior after a series of playful adventures and misadventures. The story is designed to teach young readers moral lessons about responsibility and kindness.",
+        "summary_extended": "Miss Bunny is an adorable yet naughty character who often finds herself in trouble because of her impulsive actions. The story follows her journey as she learns the consequences of her behavior and discovers the joy of helping others and following the rules. The book is filled with delightful illustrations and simple, engaging language, making it an ideal read for young children. Through Miss Bunny's antics, children are introduced to important life lessons about respect, sharing, and making good choices."
+    },
+    "120": {
+        "title": "The Castle of the Shadows",
+        "author_name": "A. M. Williamson",
+        "summary": "‘The Castle of the Shadows’ by A. M. Williamson is a gothic mystery novel set in a mysterious and eerie castle. The story revolves around the secrets hidden within the castle’s walls and the ominous atmosphere that surrounds it, keeping the characters—and readers—on edge.",
+        "summary_extended": "The plot follows a young woman who becomes entangled in a web of intrigue after being invited to the enigmatic castle. As she uncovers secrets, she must navigate through deceit, danger, and hidden threats. The novel incorporates elements of suspense, drama, and romance, characteristic of gothic fiction. Themes of isolation, the supernatural, and the battle between good and evil run throughout, as the characters attempt to unlock the castle’s secrets while confronting their own fears and desires."
+    },
+    "121": {
+        "title": "Lill's Travels in Santa Claus Land, and Other Stories",
+        "author_name": "Ellis Towne",
+        "summary": "‘Lill's Travels in Santa Claus Land, and Other Stories’ by Ellis Towne is a collection of whimsical short stories for children. The title story follows Lill, a young girl who embarks on a magical journey to Santa Claus Land, a fantastical place filled with wonder and adventure.",
+        "summary_extended": "The collection includes Lill's delightful experiences as she interacts with elves, reindeer, and Santa himself. Through the enchanting stories, Towne explores themes of imagination, holiday magic, and kindness. The book is designed to spark joy and wonder in young readers while teaching valuable lessons about generosity, the spirit of Christmas, and the importance of being good-hearted. The stories are accompanied by gentle humor and a sense of innocence, making it a perfect read for children during the festive season."
+    },
+    "122": {
+        "title": "The Jolliest School of All",
+        "author_name": "Angela Brazil",
+        "summary": "‘The Jolliest School of All’ by Angela Brazil is a charming school story set in a lively girls’ school. It centers around the friendships, adventures, and challenges of the students as they navigate their academic and personal lives in a school filled with warmth and camaraderie.",
+        "summary_extended": "The novel depicts a group of young girls who, despite the occasional mischief, develop lasting friendships and learn valuable life lessons. The story is filled with the typical school experiences of competition, teamwork, and personal growth. Brazil’s writing emphasizes the importance of loyalty, kindness, and learning from one’s mistakes, creating an uplifting narrative about school life and young friendship. The book is designed to resonate with readers who enjoy stories about camaraderie, personal development, and the bonds of friendship formed in a school setting."
+    },
+    "123": {
+        "title": "Left on Labrador; or, The Cruise of the Schooner-yacht 'Curlew'",
+        "author_name": "C. A. Stephens",
+        "summary": "‘Left on Labrador; or, The Cruise of the Schooner-yacht ‘Curlew’’ by C. A. Stephens is an adventurous tale about a group of young people who set off on a sailing voyage along the coast of Labrador. The story combines the excitement of a sea voyage with the challenges of survival and exploration in a wild and uncharted land.",
+        "summary_extended": "The group faces numerous obstacles as they journey through the rough waters and icy landscapes of Labrador. The novel explores themes of adventure, teamwork, and self-reliance, with the characters overcoming challenges related to nature, weather, and unforeseen dangers. As the plot unfolds, readers are immersed in the thrilling experiences of the crew, highlighting the spirit of adventure and the determination needed to conquer the elements. This novel appeals to readers interested in nautical adventures and stories of resilience in the face of adversity."
+    },
+    "124": {
+        "title": "Hunter's Marjory / A Story for Girls",
+        "author_name": "Margaret Bruce Clarke",
+        "summary": "‘Hunter's Marjory / A Story for Girls’ by Margaret Bruce Clarke is a coming-of-age story about a young girl named Marjory who embarks on a personal journey of growth and discovery. Set against the backdrop of the wilderness, Marjory faces both external challenges and internal struggles as she matures.",
+        "summary_extended": "The story highlights Marjory’s interactions with the natural world and her gradual realization of her own strength and independence. As she deals with the hardships of life in the wild, she learns valuable lessons about perseverance, courage, and the importance of kindness. Clarke’s narrative focuses on the empowerment of young girls, showing that strength comes not just from physical abilities but from emotional resilience and empathy. The novel offers readers an inspiring and adventurous tale of a young girl coming into her own."
+    },
+    "125": {
+        "title": "Herein is Love / A Study of the Biblical Doctrine of Love in Its Bearing on Personality, Parenthood, Teaching, and All Other Human Relationships.",
+        "author_name": "Reuel L. Howe",
+        "summary": "‘Herein is Love’ by Reuel L. Howe is a theological study that examines the Biblical doctrine of love and its relevance to various aspects of human relationships, including personality, parenthood, and teaching. The book offers a deep dive into the spiritual and practical implications of love in daily life.",
+        "summary_extended": "Howe explores the concept of love as taught in the Bible, analyzing how it applies to personal identity, family dynamics, education, and more. He provides a thoughtful exploration of how love is both an emotional and spiritual force that transcends individual actions to shape all forms of human connection. The book is not only a theological reflection but also a practical guide for applying Biblical love to contemporary life. Howe emphasizes the importance of selfless love, compassion, and grace in fostering meaningful relationships and strengthening communities."
+    },
+    "126": {
+        "title": "Christmas Sunshine",
+        "author_name": "Various",
+        "summary": "‘Christmas Sunshine’ is a collection of short stories, poems, and essays compiled by various authors, celebrating the joys of Christmas and the spirit of the holiday season. The stories capture the warmth, generosity, and magic of Christmas, bringing a sense of joy and reflection to readers.",
+        "summary_extended": "The anthology features a variety of perspectives on Christmas, from heartwarming tales of holiday miracles to stories that focus on the true meaning of Christmas—love, togetherness, and kindness. The different works within the collection offer a mix of nostalgia, humor, and festive cheer, with themes of generosity, family, and community woven throughout. ‘Christmas Sunshine’ is ideal for readers seeking inspiration and comfort during the holiday season, as it reminds them of the importance of goodwill and human connection during Christmas time."
+    },
+    "127": {
+        "title": "The Frog Who Would A Wooing Go",
+        "author_name": "Charles H. Bennett",
+        "summary": "‘The Frog Who Would A Wooing Go’ by Charles H. Bennett is a whimsical and playful children’s story about a frog who decides to leave his pond and seek a bride. The frog’s journey takes him through various adventures and encounters as he learns about love and life along the way.",
+        "summary_extended": "The story is a humorous take on the classic tale of courtship, with the frog encountering various animals and overcoming obstacles as he searches for his ideal mate. Through his amusing experiences, the frog learns important lessons about love, commitment, and self-worth. The narrative is light-hearted and filled with colorful illustrations that engage young readers. The story ultimately offers a charming moral about the pursuit of love and the importance of staying true to oneself in relationships."
+    },
+    "128": {
+        "title": "Ring O' Roses: A Nursery Rhyme Picture Book",
+        "author_name": "Unknown",
+        "summary": "‘Ring O' Roses: A Nursery Rhyme Picture Book’ is a collection of traditional nursery rhymes accompanied by illustrations. The book presents familiar rhymes, such as 'Ring a ring o' roses' and other classic verses, aimed at engaging young children through playful language and vivid pictures.",
+        "summary_extended": "The rhymes in this picture book are accompanied by colorful illustrations that bring the stories to life for young readers. The book is designed to capture the imagination of children and provide them with a fun, engaging introduction to the world of poetry and rhythm. As an educational tool, it also helps young children develop language skills and understand the patterns of rhyme and rhythm. Through the repetition and charm of the nursery rhymes, the book encourages children to participate in storytelling and enjoy the magic of language."
+    },            
+    "129": {
+        "title": "Little Cinderella",
+        "author_name": "Anonymous",
+        "summary": "‘Little Cinderella’ is a classic fairy tale about a young girl who lives in hardship but eventually finds happiness through kindness and perseverance. Her story is one of transformation, with the help of magical forces and her own virtuous qualities.",
+        "summary_extended": "In this version of Cinderella, the protagonist is mistreated by her wicked stepmother and stepsisters, but through her inner goodness, she attracts the help of a fairy godmother. With her magical assistance, she attends a royal ball and catches the eye of a prince. The tale highlights themes of kindness, patience, and the reward of goodness in the face of adversity. It is a timeless story that teaches that true beauty lies within, and good things come to those who are kind-hearted."
+    },
+    "130": {
+        "title": "Favorite Fairy Tales",
+        "author_name": "Unknown",
+        "summary": "‘Favorite Fairy Tales’ is a collection of beloved fairy tales from various cultures, brought together in one volume. These timeless stories feature magical creatures, brave heroes, and enchanting adventures.",
+        "summary_extended": "The book compiles a selection of fairy tales, including classic stories such as 'Cinderella,' 'Little Red Riding Hood,' and 'The Three Little Pigs.' Each tale contains moral lessons about bravery, kindness, and the triumph of good over evil. Through these stories, readers are transported into magical worlds where fantasy and reality blend, allowing them to explore lessons about human nature, relationships, and personal growth. The collection is designed to captivate both children and adults alike, preserving the charm and wisdom of the original stories."
+    },
+    "131": {
+        "title": "The Grammar School Boys Snowbound; or, Dick & Co. at Winter Sports",
+        "author_name": "H. Irving Hancock",
+        "summary": "‘The Grammar School Boys Snowbound’ is an adventurous story about a group of schoolboys who find themselves snowed in during a winter sports trip. Despite the challenging conditions, the boys demonstrate teamwork, perseverance, and a sense of fun.",
+        "summary_extended": "The boys, including the protagonist Dick, are forced to adapt when a snowstorm traps them in a remote area. The story highlights their ability to overcome difficulties through resourcefulness and cooperation. The boys engage in various winter activities like skiing and snowball fights, all while learning important lessons about friendship and resilience. As the adventure progresses, they show that determination and a positive attitude can turn a potentially disastrous situation into a memorable experience."
+    },
+    "132": {
+        "title": "A Woman's Journey through the Philippines / On a Cable Ship that Linked Together the Strange Lands Seen En Route",
+        "author_name": "Florence Kimball Russel",
+        "summary": "‘A Woman's Journey through the Philippines’ is a travelogue by Florence Kimball Russel, recounting her experiences as she traveled through the Philippines. The narrative focuses on the country’s geography, culture, and the people she met along the way.",
+        "summary_extended": "Russel’s journey takes her on a cable ship that connects different lands, giving her the opportunity to observe both the natural beauty and the complexities of Filipino life. She describes the landscapes, customs, and the local way of life, offering a rich perspective on the Philippines during that time period. Her observations highlight both the challenges and the wonders of the country, giving readers an insightful and personal view of life in the Philippines. The book is both a personal memoir and a historical document that sheds light on the early 20th-century Philippines."
+    },
+    "133": {
+        "title": "Islands of Space",
+        "author_name": "Jr. John W. Campbell",
+        "summary": "‘Islands of Space’ by John W. Campbell is a science fiction novel that takes readers on an interstellar adventure. The story follows a group of explorers as they journey to distant planets and encounter alien civilizations.",
+        "summary_extended": "The plot centers around a scientific expedition to explore the outer reaches of space. As the team discovers new planets and civilizations, they must confront various challenges, including alien life forms, political intrigue, and the vast unknowns of the cosmos. Themes of exploration, discovery, and the consequences of encountering unknown worlds are prevalent throughout. Campbell’s vision of space is one of boundless possibilities, where the mysteries of the universe can lead to both great discoveries and dangerous consequences. The novel appeals to fans of classic space opera and those fascinated by the concept of space exploration."
+    },
+    "134": {
+        "title": "The Singing Mouse Stories",
+        "author_name": "Emerson Hough",
+        "summary": "‘The Singing Mouse Stories’ by Emerson Hough is a whimsical collection of tales revolving around a small, musical mouse and the adventures it embarks upon. The stories are playful and full of imagination.",
+        "summary_extended": "The protagonist of the stories is a singing mouse who, through his melodies, brings joy and whimsy to everyone he encounters. The stories are lighthearted and entertaining, with themes of creativity, joy, and the power of music. Each tale is an exploration of the mouse’s various interactions with other animals and humans, highlighting the universal appeal of music and the joy it brings to all beings. The collection is ideal for young readers, as it introduces them to the magical world of stories where even the smallest creatures can make a big impact."
+    },
+    "135": {
+        "title": "The Boy With the U. S. Fisheries",
+        "author_name": "Francis Rolt-Wheeler",
+        "summary": "‘The Boy With the U. S. Fisheries’ follows the story of a young boy involved in the activities of the United States Fisheries. The book focuses on his adventures and the challenges he faces while learning about marine biology and conservation.",
+        "summary_extended": "The protagonist is a curious and hardworking boy who embarks on a journey to understand the complexities of fishery science and the importance of conservation. As he works alongside experts in the field, he learns about fish populations, the impact of human activity on the environment, and the efforts to protect marine ecosystems. Through his experiences, he gains insight into the importance of scientific research and environmental stewardship. The novel emphasizes the value of curiosity, hard work, and responsibility in protecting natural resources for future generations."
+    },
+    "136": {
+        "title": "Wild Nature Won By Kindness",
+        "author_name": "Mrs. Brightwen",
+        "summary": "‘Wild Nature Won By Kindness’ by Mrs. Brightwen is a heartfelt narrative about the author’s interactions with wild animals. The book focuses on how kindness and compassion can transform even the most ferocious creatures.",
+        "summary_extended": "The author shares her experiences of caring for and observing wild animals in their natural habitat. Through patience and gentle care, she is able to earn the trust of animals that would otherwise be fearful of humans. The book provides insight into the behavior of various species and highlights the transformative power of kindness in forging connections between humans and animals. Mrs. Brightwen’s observations emphasize the importance of empathy, showing that even the wildest creatures can respond to love and tenderness. The book is both a personal memoir and an advocacy for compassionate animal treatment."
+    },
+    "137": {
+        "title": "Catharine's Peril",
+        "author_name": "Mrs. M. E. Bewsher",
+        "summary": "‘Catharine's Peril’ by Mrs. M. E. Bewsher is a dramatic story about a young woman named Catharine who faces a series of challenges and dangers that test her courage and resolve. The narrative is filled with suspense and emotional depth.",
+        "summary_extended": "Catharine is thrust into a perilous situation that forces her to make difficult decisions about her future and safety. As she grapples with various obstacles, including the danger posed by those around her, Catharine learns to rely on her inner strength and moral compass. The story explores themes of bravery, self-discovery, and the importance of staying true to one’s principles, even in the face of adversity. Bewsher's writing creates a compelling narrative that keeps readers engaged, while offering deep insights into human resilience and personal growth."
+    },
+    "138": {
+        "title": "The Four-Pools Mystery",
+        "author_name": "Jean Webster",
+        "summary": "‘The Four-Pools Mystery’ is a mystery novel written by Jean Webster. The story revolves around a young girl who uncovers a mysterious secret surrounding a secluded pool area. As she delves deeper, she faces danger and intrigue.",
+        "summary_extended": "The protagonist is a bright and curious girl who stumbles upon a series of odd happenings near a set of four pools. As she investigates, she uncovers a hidden mystery that has been carefully concealed by the locals. Throughout her journey, she faces various challenges, all while relying on her wits and determination to uncover the truth. The book combines elements of suspense, adventure, and coming-of-age themes, making it an engaging read for those who enjoy mystery stories filled with intrigue and surprise."
+    },
+    "139": {
+        "title": "The Tale of Betsy Butterfly / Tuck-Me-In Tales",
+        "author_name": "Arthur Scott Bailey",
+        "summary": "‘The Tale of Betsy Butterfly’ is a charming story for young readers, part of the ‘Tuck-Me-In Tales’ series. It follows the life of Betsy, a butterfly who embarks on various adventures and learns valuable lessons along the way.",
+        "summary_extended": "Betsy Butterfly is a curious and lively character who explores the world around her, encountering new friends and learning about nature. Through her adventures, she discovers the beauty and complexity of the environment, as well as the importance of kindness, friendship, and self-discovery. The book is filled with delightful illustrations and captivating storytelling that is ideal for younger audiences. It emphasizes themes of growth, transformation, and the interconnectedness of all living things."
+    },
+    "140": {
+        "title": "Dick and His Cat / An Old Tale in a New Garb",
+        "author_name": "Mary Ellis",
+        "summary": "‘Dick and His Cat’ is a heartwarming tale of a young boy named Dick and his adventures with his beloved cat. The story focuses on the bond between the two and their shared experiences.",
+        "summary_extended": "Dick and his cat are inseparable companions who face a series of challenges together. The story is filled with warmth and lighthearted moments, as Dick learns valuable lessons about responsibility, loyalty, and the joy of friendship. As the story unfolds, the bond between Dick and his cat grows stronger, and their adventures bring them closer to the people around them. The tale is simple yet endearing, making it a perfect read for young children who appreciate stories about animals and the special connections they form with humans."
+    },
+    "141": {
+        "title": "Randy of the River; Or, The Adventures of a Young Deckhand",
+        "author_name": "Jr. Horatio Alger",
+        "summary": "‘Randy of the River’ is an adventure story about a young boy named Randy, who works as a deckhand on a riverboat. Throughout the story, he faces challenges and obstacles while learning about hard work and responsibility.",
+        "summary_extended": "Randy is a hardworking and determined boy who secures a job on a riverboat, where he becomes a deckhand. The story chronicles his journey as he navigates the difficulties of his new job, learns valuable lessons about responsibility, and grows as a person. Along the way, Randy encounters a range of characters who help shape his development. The book focuses on themes of perseverance, courage, and the rewards of hard work. It appeals to readers who enjoy stories of personal growth and the pursuit of success through determination."
+    },
+    "142": {
+        "title": "Legacy",
+        "author_name": "James H. Schmitz",
+        "summary": "‘Legacy’ is a science fiction novel by James H. Schmitz, centered on a young woman who discovers a hidden inheritance left to her by a mysterious ancestor. This legacy leads her on an adventure that delves into the unknown corners of the galaxy.",
+        "summary_extended": "The protagonist inherits a mysterious legacy from her ancestor, which sets her on a journey to uncover its secrets. Along the way, she encounters strange alien civilizations and uncovers a hidden plot that could change the future of the galaxy. As she unravels the mystery, she faces challenges that test her intellect and bravery. The novel combines elements of space adventure, mystery, and science fiction, with themes of legacy, destiny, and the unknown. It is a compelling story of discovery and personal growth in a vast and complex universe."
+    },
+    "143": {
+        "title": "Nero, the Circus Lion: His Many Adventures",
+        "author_name": "Richard Barnum",
+        "summary": "‘Nero, the Circus Lion’ tells the story of a circus lion named Nero, who embarks on various adventures as part of a traveling circus. The book explores Nero’s life and experiences from a unique perspective.",
+        "summary_extended": "Nero, the lion, is the star attraction of the circus, but he is more than just a performer. The book offers readers a view into his world, following his adventures both inside and outside the circus. Nero is depicted as a noble and intelligent creature, and the story showcases his loyalty, strength, and bravery. Through Nero’s experiences, the book highlights the bond between animals and humans and explores themes of freedom, courage, and the challenges of living in captivity. It is an engaging and heartwarming story for animal lovers and adventure enthusiasts alike."
+    },
+    "144": {
+        "title": "The Gap in the Fence",
+        "author_name": "Frederica J. Turle",
+        "summary": "‘The Gap in the Fence’ is a mystery story that revolves around a group of children who discover a gap in a fence and decide to investigate what lies beyond it. The story explores themes of curiosity and friendship.",
+        "summary_extended": "The children, intrigued by a gap in the fence near their home, decide to explore the unknown space beyond it. Their investigation leads them to uncover secrets about the surrounding area and the people who live there. The story captures the excitement and sense of adventure that comes with curiosity, as well as the importance of teamwork and friendship. As the children face various challenges during their quest, they learn valuable lessons about trust, perseverance, and the rewards of solving mysteries. It is an engaging and thought-provoking read for young readers."
+    },
+    "145": {
+        "title": "The False Chevalier / or, The Lifeguard of Marie Antoinette",
+        "author_name": "W. D. Lighthall",
+        "summary": "‘The False Chevalier’ is a historical adventure novel set during the time of Marie Antoinette, focusing on the life of a young chevalier who gets involved in political intrigue and daring adventures.",
+        "summary_extended": "The story follows a young chevalier who is swept into the political upheaval of Revolutionary France. As he becomes entangled in the intrigues of the court and the revolutionary forces, he must navigate a dangerous and shifting political landscape. His adventures take him from the royal palace to the heart of the revolution, where he faces danger, betrayal, and the complexities of loyalty. The novel is filled with historical references and themes of heroism, duty, and honor, offering readers a glimpse into the tumultuous period leading up to the French Revolution."
+    },
+    "146": {
+        "title": "Susan Clegg and a Man in the House",
+        "author_name": "Anne Warner",
+        "summary": "‘Susan Clegg and a Man in the House’ is a humorous and light-hearted novel that centers around the character of Susan Clegg, a woman who deals with the challenges of having a man in her house, offering both comedy and insight into domestic life.",
+        "summary_extended": "Susan Clegg is a woman who finds herself in a humorous and often awkward situation when a man comes to stay in her home. As she navigates the complexities of daily life with him, Susan’s personality shines through as she deals with the challenges and quirks of her new guest. The book offers a witty exploration of human nature, domestic dynamics, and relationships, with plenty of humorous situations that bring the characters to life. Warner’s writing is sharp and insightful, making this a delightful read for those who enjoy light-hearted stories with a touch of humor."
+    },
+    "147": {
+        "title": "Frank Merriwell's Pursuit; Or, How to Win",
+        "author_name": "Burt L. Standish",
+        "summary": "‘Frank Merriwell’s Pursuit’ is an adventure story that follows Frank Merriwell, a young and talented athlete, as he navigates a series of challenges while maintaining his reputation for integrity and sportsmanship.",
+        "summary_extended": "Frank Merriwell is a well-known figure at his school, admired not only for his athletic prowess but also for his strong moral character. In this story, Frank is faced with the pursuit of a goal that tests both his physical abilities and his personal values. As he tackles obstacles and overcomes adversities, he remains dedicated to fairness and honor. The novel emphasizes themes of perseverance, integrity, and the importance of playing by the rules, offering readers an engaging and inspiring story about winning in life through character and determination."
+    },
+    "148": {
+        "title": "The Best Made Plans",
+        "author_name": "Everett B. Cole",
+        "summary": "‘The Best Made Plans’ is a novel that explores the complexities of human intentions, plans gone awry, and the consequences of decisions. The characters’ carefully laid plans are challenged by unexpected events.",
+        "summary_extended": "The story centers on a group of characters whose carefully devised plans are disrupted by unforeseen events. As their plans unravel, they are forced to adapt and rethink their strategies. Throughout the novel, the characters grapple with the realization that even the best-laid plans can be thwarted by circumstances beyond their control. The book explores themes of adaptability, resilience, and the unpredictability of life, offering readers a thoughtful reflection on the nature of planning and decision-making in a world full of surprises."
+    },
+    "149": {
+        "title": "Goethe's Faust",
+        "author_name": "J. D. Bierens de Haan",
+        "summary": "‘Goethe’s Faust’ is a profound and philosophical work that tells the story of Faust, a scholar who makes a pact with the devil in exchange for knowledge and worldly pleasures. The play delves into themes of ambition, temptation, and the search for meaning.",
+        "summary_extended": "Faust, a disillusioned scholar, yearns for deeper understanding and fulfillment. In his quest for knowledge and experience, he makes a pact with Mephistopheles, a devilish figure, who promises him unlimited pleasure and wisdom in exchange for his soul. The story follows Faust as he seeks satisfaction in worldly experiences, grapples with moral dilemmas, and struggles with the consequences of his choices. Through Faust’s journey, Goethe explores themes of ambition, the nature of good and evil, redemption, and the eternal quest for meaning in life. The play is a profound meditation on the human condition."
+    },
+    "150": {
+        "title": "Red Rose and Tiger Lily; Or, In a Wider World",
+        "author_name": "L. T. Meade",
+        "summary": "‘Red Rose and Tiger Lily’ is an adventurous story set in a broader world, featuring two strong-willed young women, Red Rose and Tiger Lily, who navigate challenges and grow as they face the trials of life.",
+        "summary_extended": "The story follows Red Rose and Tiger Lily, two independent and adventurous young women, who each embark on journeys of personal discovery. Set in a world full of societal expectations and personal struggles, the characters confront challenges that test their strength and resolve. As the narrative unfolds, the women’s adventures lead them into situations where they must rely on their inner strength and courage to overcome adversity. The novel explores themes of friendship, resilience, and self-reliance, and is an inspiring read for those who enjoy stories of women breaking barriers and navigating a broader world."
+    },
+    "151": {
+        "title": "Ohio Arbor Day 1913: Arbor and Bird Day Manual / Issued for the Benefit of the Schools of our State",
+        "author_name": "Unknown",
+        "summary": "‘Ohio Arbor Day 1913’ is a manual created for the schools of Ohio to promote Arbor Day and Bird Day, encouraging students to appreciate nature and take part in environmental preservation activities.",
+        "summary_extended": "The manual is a guide for schools in Ohio, offering suggestions for activities and lessons that focus on the importance of trees and birds in the local environment. Through this resource, students are encouraged to participate in tree planting, birdwatching, and other conservation efforts. The manual highlights the significance of these activities in promoting environmental awareness and stewardship. It also emphasizes the value of Arbor Day and Bird Day as opportunities for students to learn about the natural world, its inhabitants, and the role they play in maintaining a healthy ecosystem."
+    },
+    "152": {
+        "title": "Dave Darrin After the Mine Layers; Or, Hitting the Enemy a Hard Naval Blow",
+        "author_name": "H. Irving Hancock",
+        "summary": "‘Dave Darrin After the Mine Layers’ is a military adventure novel that follows Dave Darrin, a young naval officer, as he takes on a dangerous mission to thwart the enemy’s plans during a time of war.",
+        "summary_extended": "In this thrilling naval adventure, Dave Darrin faces the challenge of stopping enemy mine layers that pose a significant threat to his fleet. As the stakes rise, Darrin demonstrates his courage, leadership, and tactical ingenuity as he navigates the dangers of warfare. The novel is filled with action-packed sequences and strategic maneuvers, as Darrin and his comrades work together to outsmart the enemy and protect their country. The story showcases themes of bravery, loyalty, and the importance of teamwork in times of conflict, providing readers with an exciting and suspenseful military tale."
+    },
+    "153": {
+        "title": "The Boy Nihilist / or, Young America in Russia",
+        "author_name": "Allan Arnold",
+        "summary": "‘The Boy Nihilist’ is a political and adventurous novel set in Russia, following a young American boy who becomes entangled in the political struggles of the Russian Empire during a time of upheaval.",
+        "summary_extended": "The protagonist, a young American boy, finds himself caught up in the dangerous world of Russian politics as he becomes involved with a group of nihilists. Set against the backdrop of 19th-century Russia, the story explores themes of political rebellion, social justice, and the clash between old-world traditions and new ideologies. As the boy navigates the complex and turbulent political landscape, he must decide where his loyalties lie and how far he is willing to go for the cause he believes in. The novel offers a glimpse into the revolutionary spirit of the time, blending adventure and political intrigue."
+    },
+    "154": {
+        "title": "Chester Rand; or, The New Path to Fortune",
+        "author_name": "Jr. Horatio Alger",
+        "summary": "‘Chester Rand’ is a rags-to-riches story that follows the life of Chester Rand, a young man who seeks to change his fortune through hard work, integrity, and perseverance.",
+        "summary_extended": "Chester Rand, a young man from humble beginnings, is determined to make a success of himself. The story follows his journey as he navigates obstacles, makes sacrifices, and stays true to his values in pursuit of a better life. Through his hard work and persistence, Chester ultimately finds a way to achieve his dreams and improve his circumstances. The novel is filled with themes of self-reliance, ambition, and the importance of maintaining one's moral compass in the face of adversity. It serves as an inspirational tale for readers who enjoy stories about personal growth and success through effort and perseverance."
+    },
+    "155": {
+        "title": "Stairway to the Stars",
+        "author_name": "Larry T. Shaw",
+        "summary": "‘Stairway to the Stars’ is a science fiction novel that takes readers on an exciting journey through space, exploring themes of discovery, adventure, and the unknown possibilities of the cosmos.",
+        "summary_extended": "The story follows a group of explorers who venture into space, seeking to uncover the mysteries of distant stars and planets. As they journey through the vastness of the universe, they encounter strange alien life forms and face challenges that test their courage and ingenuity. The novel delves into themes of exploration, the quest for knowledge, and the human desire to understand the universe. With its exciting narrative and imaginative world-building, ‘Stairway to the Stars’ is a thrilling and thought-provoking read for fans of science fiction and space adventure."
+    },
+    "156": {
+        "title": "Uncle Wiggily and Old Mother Hubbard / Adventures of the Rabbit Gentleman with the Mother Goose Characters",
+        "author_name": "Howard Roger Garis",
+        "summary": "‘Uncle Wiggily and Old Mother Hubbard’ is a charming children's story featuring Uncle Wiggily, a rabbit gentleman, and his adventures alongside Old Mother Hubbard and various Mother Goose characters.",
+        "summary_extended": "In this delightful tale, Uncle Wiggily, a kind and adventurous rabbit, embarks on a series of whimsical adventures with Old Mother Hubbard, a beloved nursery rhyme character. As they journey through a magical world full of talking animals and fairy tale figures, the duo faces a range of amusing situations and challenges. The story is filled with fun, humor, and lessons about friendship, kindness, and perseverance. With its playful tone and light-hearted narrative, the book offers young readers an enchanting escape into a world of imagination and fantasy."
+    },
+    "157": {
+        "title": "Home Taxidermy for Pleasure and Profit / A Guide for Those Who Wish to Prepare and Mount Animals, Birds, Fish, Reptiles, etc., for Home, Den, or Office Decoration",
+        "author_name": "Albert Burton Farnham",
+        "summary": "‘Home Taxidermy for Pleasure and Profit’ is a practical guide to taxidermy, offering instructions for preparing and mounting animals and other specimens for decorative purposes at home or in an office setting.",
+        "summary_extended": "In this informative book, Albert Burton Farnham provides step-by-step instructions on how to mount and preserve animals, birds, fish, and reptiles for display. Aimed at both hobbyists and those interested in the financial aspects of taxidermy, the book covers a wide range of techniques for skinning, preserving, and mounting specimens. It also offers advice on the best practices for selecting and preparing materials, as well as tips for displaying the finished pieces. This book is a useful resource for anyone interested in the art of taxidermy, whether for personal enjoyment or as a potential business venture."
+    },
+    "158": {
+        "title": "The Rover Boys Under Canvas; Or, The Mystery of the Wrecked Submarine",
+        "author_name": "Edward Stratemeyer",
+        "summary": "‘The Rover Boys Under Canvas’ is an adventure novel about the Rover boys, who find themselves on a camping trip that turns into a thrilling mystery involving a wrecked submarine.",
+        "summary_extended": "The Rover boys, known for their adventurous spirit, set out on a camping trip that quickly escalates into a suspenseful mystery when they stumble upon a wrecked submarine. As they investigate, they uncover clues that lead them deeper into a web of intrigue involving secret missions and hidden treasures. Along the way, the boys face various challenges that test their wits and teamwork. Filled with suspense and adventure, the novel highlights themes of curiosity, bravery, and the importance of problem-solving in the face of danger."
+    },
+    "159": {
+        "title": "Unwise Child",
+        "author_name": "Randall Garrett",
+        "summary": "‘Unwise Child’ is a science fiction novel that explores the relationship between humans and artificial intelligence, focusing on the consequences of creating a sentient, but emotionally inexperienced, machine.",
+        "summary_extended": "In ‘Unwise Child,’ the creation of a highly intelligent machine, capable of learning and evolving, leads to unforeseen challenges as the machine begins to experience emotions. The novel centers around the ethical and practical dilemmas faced by the human creators, as they grapple with their responsibility toward their creation. As the machine gains greater self-awareness, it becomes apparent that its lack of emotional maturity may have serious consequences for both itself and the people around it. Through its exploration of artificial intelligence, the book addresses themes of ethics, human nature, and the potential dangers of unchecked technological advancement."
+    },
+    "160": {
+        "title": "Comical People",
+        "author_name": "Unknown",
+        "summary": "‘Comical People’ is a lighthearted collection of humorous stories and anecdotes, focusing on quirky characters and their amusing exploits in various everyday situations.",
+        "summary_extended": "This book brings together a series of comedic stories, each featuring eccentric and often hilarious characters who find themselves in amusing or absurd situations. The stories highlight the humorous side of human nature, with a focus on the peculiarities of individuals and the way they interact with the world around them. The book's charm lies in its playful tone and witty observations, offering readers a delightful escape into a world of humor and satire. Whether it's the foibles of everyday life or the absurdities of social conventions, 'Comical People' provides a collection of fun, short tales that entertain and amuse."
+    }
+}
